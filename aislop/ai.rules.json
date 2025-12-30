@@ -1,0 +1,11 @@
+{
+  "notebook_output_rule": {
+    "pattern": "*.ipynb",
+    "output_path_template": "/home/abv/public_html/admin/aislop/ai.{basename}.ipynb"
+  },
+  "allow_write": [
+    "/home/abv/public_html/admin/aislop/"
+  ],
+  "max_file_size_mb": 10,
+  "log_changes": true
+}
