@@ -1,0 +1,37 @@
+============================================================
+Starting ABV Song Management Server...
+Environment: Windows
+Server URL: http://127.0.0.1:8001
+Working Directory: C:\Users\mcken\OneDrive\chorus\abv\tech\abv\server
+Database: ../process/songs.db
+============================================================
+ * Serving Flask app 'app'
+ * Debug mode: on
+2025-11-10 11:34:35,756 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+2025-11-10 11:34:35,756 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-10 11:34:35,756 - INFO -  * Restarting with stat
+2025-11-10 11:34:36,146 - WARNING -  * Debugger is active!
+2025-11-10 11:34:36,146 - INFO -  * Debugger PIN: 121-901-628
+2025-11-10 13:03:26,479 - INFO -  * Detected change in 'C:\\Users\\mcken\\OneDrive\\chorus\\abv\\tech\\abv\\lib\\abv\\abv\\calendar_utils.py', reloading
+============================================================
+Starting ABV Song Management Server...
+Environment: Windows
+Server URL: http://127.0.0.1:8002
+Working Directory: C:\Users\mcken\OneDrive\chorus\abv\tech\abv\server
+Database: ../process/songs.db
+============================================================
+2025-11-10 13:03:26,518 - INFO -  * Restarting with stat
+2025-11-10 13:03:26,889 - WARNING -  * Debugger is active!
+2025-11-10 13:03:26,894 - INFO -  * Debugger PIN: 121-901-628
+2025-11-10 13:04:17,318 - INFO -  * Detected change in 'c:\\users\\mcken\\onedrive\\chorus\\abv\\tech\\abv\\lib\\abv\\abv\\calendar_utils.py', reloading
+============================================================
+Starting ABV Song Management Server...
+Environment: Windows
+Server URL: http://127.0.0.1:8002
+Working Directory: C:\Users\mcken\OneDrive\chorus\abv\tech\abv\server
+Database: ../process/songs.db
+============================================================
+2025-11-10 13:04:17,350 - INFO -  * Restarting with stat
+2025-11-10 13:04:17,728 - WARNING -  * Debugger is active!
+2025-11-10 13:04:17,731 - INFO -  * Debugger PIN: 121-901-628

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>ABV Site Management</title>
+    <link rel="stylesheet" href="style.css?v=20241021">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ABV Site Management System</h1>
+            <div class="header-buttons">
+                <button id="syncBtn" class="btn btn-primary">Sync with Legacy Site</button>
+                <button id="syncBackBtn" class="btn btn-secondary">Sync Back to Legacy</button>
+                <span id="pendingFiles" class="pending-files-counter">0 files pending</span>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <!-- Song List Panel -->
+            <div class="panel" id="songListPanel">
+                <div class="panel-header">
+                    <h2>Songs</h2>
+                    <div class="header-buttons">
+                        <button id="newSongBtn" class="btn btn-success btn-small">➕ New Song</button>
+                        <button id="deleteSongBtn" class="btn btn-danger btn-small" disabled>🗑️ Delete Song</button>
+                    </div>
+                </div>
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search songs...">
+                </div>
+                <div id="songList" class="song-list">
+                    <div class="loading">Loading songs...</div>
+                </div>
+            </div>
+
+            <!-- Song Editor Panel -->
+            <div class="panel" id="editorPanel">
+                <h2>Song Editor</h2>
+                <div id="songInfo">
+                    <div class="song-header">
+                        <input type="text" id="songNameInput" placeholder="Song Name">
+                        <select id="currentSelect">
+                            <option value="0">Not Current</option>
+                            <option value="1">Current</option>
+                        </select>
+                    </div>
+                    
+                    <div class="editor-section">
+                        <h3>Markdown Editor</h3>
+                        <textarea id="markdownEditor" placeholder="Enter markdown content..."></textarea>
+                    </div>
+
+                    <div class="preview-section">
+                        <h3>Preview</h3>
+                        <div id="markdownPreview" class="preview"></div>
+                    </div>
+
+                    <div class="file-upload-section">
+                        <h3>Upload Files</h3>
+                        <div class="upload-area">
+                            <input type="file" id="fileInput" multiple>
+                            <div class="folder-selection">
+                                <label for="folderSelect">Choose Directory:</label>
+                                <select id="folderSelect">
+                                    <option value="">-- Select or use custom below --</option>
+                                </select>
+                                <label for="customFolder">Directory Path:</label>
+                                <input type="text" id="customFolder" placeholder="resources/audio/song_name/" value="">
+                                <small id="folderHelp" class="help-text">Select from dropdown or type custom path</small>
+                            </div>
+                            <div id="uploadProgress" class="upload-progress" style="display: none;">
+                                <div class="progress-bar">
+                                    <div class="progress-fill"></div>
+                                </div>
+                                <span class="progress-text">Uploading files...</span>
+                            </div>
+                        </div>
+                        <div id="uploadStatus"></div>
+                    </div>
+
+                    <div class="actions">
+                        <button id="saveBtn" class="btn btn-success">Save Song</button>
+                        <button id="cancelBtn" class="btn btn-secondary">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <div id="status" class="status"></div>
+        </footer>
+    </div>
+
+    <!-- Batch Link Generation Modal -->
+    <div id="batchLinkModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>📝 Insert Markdown Links</h3>
+                <button class="modal-close" id="modalCloseBtn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>Select files to add as markdown links:</p>
+                <div id="batchFileList" class="batch-file-list">
+                    <!-- Dynamic content will be added here -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="generateAllLinksBtn" class="btn btn-primary">✨ Generate All Links</button>
+                <button id="cancelBatchLinksBtn" class="btn btn-secondary">❌ Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js?v=20241026"></script>
+</body>
+</html>

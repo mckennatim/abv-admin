@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Conda
+*.conda
+*.lock
+envs/
+conda-meta/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# miniconda3/
+miniconda3/
+
+# Node.js / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+public_html/admin/assets/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SSH keys and secrets
+*.pem
+*.key
+*.crt
+
+# Misc
+Miniconda3-latest-Linux-x86_64.sh
+.vscode-server/
+.cache/
+.ssh/
+.ipython/
+.profile
+.sudo_as_admin_successful
+.wget-hsts
+.dotnet/
+.landscape/
+.motd_shown
+.bash_history
+.bash_logout
+.bashrc
+

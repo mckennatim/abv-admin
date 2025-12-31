@@ -1,0 +1,5 @@
+# Requirements for ABV Song Management System
+flask==2.3.3
+flask-cors==4.0.0
+beautifulsoup4==4.12.2
+requests==2.31.0

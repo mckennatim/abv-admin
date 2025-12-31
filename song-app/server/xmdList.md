@@ -1,0 +1,917 @@
+- A Shtik fun Harts  
+  - [Sheet music](resources/print/A%20shtik%20fun%20harts%20SATB_ABV%204pp%209_11_2023%20v4.pdf) 
+  - [Translation](resources/print/A%20Shtik%20Fun%20Harts%20lyrics%20translation%20rev.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat;](resources/audio/a_shtik_fun_harts/A%20Shtik%20Fun%20Harts%20Pronunciation%20drill.mp3)  [all the way through](resources/audio/a_shtik_fun_harts/A%20Shtik%20Fun%20Harts%20Pronunciation.mp3) 
+    - [Soprano](resources/audio/a_shtik_fun_harts/A%20Shtik%20Fun%20Hartz%20EG_soprano.mp3) 
+    - [Alto](resources/audio/a_shtik_fun_harts/A%20Shtik%20fun%20Harts-alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/a_shtik_fun_harts/A%20Shtik%20Fun%20Harts%20Tenor%20drill.mp3) ; [all the way through](resources/audio/a_shtik_fun_harts/A%20Shtik%20Fun%20Harts%20Tenor.mp3)  [](resources/audio/a_shtik_fun_harts/A%20Shtik%20Fun%20Harts%20Tenor.mp3) 
+    - [Bass](resources/audio/a_shtik_fun_harts/a%20shtik%20fun%20harts%20MONO.mp3) 
+- [Abi Gezint (2024)](resources/print/Abi%20Gezint%20Final%20version%20-%20ABV.pdf) 
+- Abi Gezint (pre-2024)  
+  - [Sheet music](resources/print/Abi_Gezint.pdf) 
+  - [Translation](resources/print/Abi_Gezint_translation.pdf) 
+  - Audio files  
+    - [Pronunciation](resources/audio/abi_gezint/abi_gezint_pronunciation.mp3) 
+    - Soprano: [Listen and repeat](resources/audio/abi_gezint/abi_gezint_soprano_drill.mp3) ; [all the way through](resources/audio/abi_gezint/abi_gezint_soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/abi_gezint/abi_gezint_alto_drill.mp3) ; [](resources/audio/ale_brider/Ale_Brider-Alto_Runthrough.mp3)  [all the way through](resources/audio/abi_gezint/abi_gezint_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/abi_gezint/abi_gezint_tenor_drill.mp3) ; [all the way through](resources/audio/abi_gezint/abi_gezint_tenor.mp3) 
+    - Bass: [listen and repeat](resources/audio/abi_gezint/abi_gezint_bass_drill.mp3) ; [all the way through](resources/audio/abi_gezint/abi_gezint_bass.mp3) 
+- Ale Brider  
+  - [Sheet music](resources/print/Ale%20Brider%20sheet%20music%209Mar2023.pdf) (updated March 8 2023) 
+  - [Translation (new verse added December 2017)](resources/print/Ale%20Brider%20with%20new%20verses%202017.pdf) 
+  - Audio files  
+    - Soprano: [Listen and repeat](resources/audio/ale_brider/Ale_Brider-Soprano_Listen_and_Repeat.mp3) ; [all the way through](resources/audio/ale_brider/Ale_Brider-Soprano_Runthrough.mp3) 
+    - Alto: [Listen and repeat](resources/audio/ale_brider/Ale_Brider-Alto_Listen_and_Repeat.mp3) ; [all the way through](resources/audio/ale_brider/Ale_Brider-Alto_Runthrough.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/ale_brider/Ale_Brider-Tenor_Listen_and_Repeat.mp3) ; [all the way through](resources/audio/ale_brider/Ale_Brider-Tenor_Runthrough.mp3) 
+    - Bass: [Listen and repeat](resources/audio/ale_brider/Ale_Brider-Bass_Listen_and_Repeat.mp3) ; [all the way through](resources/audio/ale_brider/Ale_Brider-Bass_Runthrough.mp3) 
+  - [Pronunciation](resources/audio/ale_brider/Ale%20Brider%20pronunciation.mp3) 
+- Ale Mentshn  
+  - [Sheet music](resources/print/ale_mentshn_ode_to_joy_entire_score.pdf) 
+  - [Translation](resources/print/Ale_Mentshn_translation.pdf) 
+  - Audio files  
+    - Soprano I: [Listen and repeat](resources/audio/ale_mentshn/Ale%20Mentshn%20soprano%20I%20drill.mp3) ; [all the way through](resources/audio/ale_mentshn/Ale%20Mentshn%20soprano%20I.mp3) 
+    - Soprano II: [Listen and repeat](resources/audio/ale_mentshn/Ale%20Mentshn%20soprano%20II%20drill.mp3) ; [all the way through](resources/audio/ale_mentshn/Ale%20Mentshn%20soprano%20II.mp3) 
+    - Alto: [Listen and repeat](resources/audio/ale_mentshn/Ale%20Mentshn%20alto%20drill.mp3) ; [](resources/audio/ale_brider/Ale_Brider-Alto_Runthrough.mp3)  [all the way through](resources/audio/ale_mentshn/Ale%20Mentshn%20alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/ale_mentshn/Ale%20Mentshn%20tenor%20drill.mp3) ; [all the way through](resources/audio/ale_mentshn/Ale%20Mentshn%20Tenor.mp3) 
+    - Bass: [all the way through (sung by Lisa)](resources/audio/ale_mentshn/Ale%20Mentshn%20bass.mp3) ; [all the way through (sung by Bob F.)](resources/audio/ale_mentshn/Ale%20Mentshn%20song%20only%20BASS.mp3) 
+    - [Entire song, performed by mini ensemble](resources/audio/ale_mentshn/Ale%20Mentshn%20minis.mp3) 
+    - Pronunciation guide: [Listen and repeat](resources/audio/ale_mentshn/Ale%20Mentshn%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/ale_mentshn/Ale%20Mentshn%20pronunciation.mp3) 
+- [Ani_Maamin](resources/print/Ani_Maamin_translation.pdf) ; [Ani_Maamin translation](resources/print/Ani_Maamin_translation.pdf) 
+- [Ayiti Cheri](resources/print/Ayiti%20Cheri.pdf) 
+- Arbeter Froyen  
+  - [Sheet music (April 12 2020)](resources/print/Arbeter%20Froyen%2012Apr2020.pdf) 
+  - [Lyrics and translation](resources/print/Arbeter%20Froyen%20lyrics%20and%20translation.pdf) 
+  - Audio files (music currently measures 1-16)  
+    - Pronunciation: [listen and repeat](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Yiddish%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Yiddish%20pronunciation.mp3) 
+    - Pronunciation in rhythm: [listen and repeat](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20rhythmic%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20rhythmic%20pronunciation.mp3) 
+    - [Soprano](resources/audio/Arbeter%20Froyen/sopranoarbeterfroyenROUGH.mp3) 
+    - [Alto I](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%201st%20alto.m4a) 
+    - [Alto II](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20alto%202.m4a) 
+    - Alto sectional 3/28/20: [part 1](resources/other/rehearsal_recordings/2020_03_28/Arbeter%20Froyen%20alto%20practice.m4a) ; [continuing from K](resources/other/rehearsal_recordings/2020_03_28/Arbeter%20Froyen%20altos%20from%20K.m4a) ; [word rhythms](resources/other/rehearsal_recordings/2020_03_28/Arbeter%20Froyen%20altos%20word%20rhythm.m4a) 
+    - Tenor I: [Listen and repeat](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Tenor%201%20drill.mp3) ; [all the way through](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Tenor%201.mp3) 
+    - Tenor II: [Listen and repeat](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Tenor%202%20drill.mp3) ; [all the way through](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Tenor%202.mp3) 
+    - Bass I: [measures 1-16](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20m1-16%20Bass%201.mp3) ; [continuing from measure 15](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Bass%201%20%28m.15%20to%20the%20end%29.m4a) 
+    - Bass II: [measures 1-16](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20m1-16%20Bass%202.mp3) ; [continuing from measure 15](resources/audio/Arbeter%20Froyen/Arbeter%20Froyen%20Bass%202%20%28m.15%20to%20the%20end%29.m4a) 
+  - [Daniel Kahn and The Painted Bird's version](https://www.youtube.com/watch?v=uQiiRVuutNk) 
+- Arbeter Ring Himen  
+  - [Sheet music](resources/print/Arbeter-Ring-Himen.pdf) 
+  - [Translation](resources/print/AR%20Himen%20lyrics%20and%20translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/arbeter_ring_himen/AR%20Himen%203%20verses%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/arbeter_ring_himen/AR%20Himen%203%20verses%20pronunciation.mp3) (second and third verses added December 2017) 
+    - [Complete song](resources/audio/arbeter_ring_himen/AR%20Himen_all.mp3) (machine-generated) 
+    - Soprano: [Listen and repeat](resources/audio/arbeter_ring_himen/ARHimn-soprano%20Listen-Repeat.mp3) ; [all the way through](resources/audio/arbeter_ring_himen/ARHimn-soprano%20All-the-way-through.mp3) ; [machine-generated](resources/audio/arbeter_ring_himen/AR%20Himen_soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/arbeter_ring_himen/ARHimn-altoListen-Repeat.mp3) ; [all the way through](resources/audio/arbeter_ring_himen/ARHimn-alto%20All-the-way-through.mp3) ; [machine-generated](resources/audio/arbeter_ring_himen/AR%20Himen_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/arbeter_ring_himen/AR%20Himen%20tenor%20drill.mp3) ; [all the way through](resources/audio/arbeter_ring_himen/AR%20Himen%20tenor.mp3) 
+    - Bass: [Listen and repeat](resources/audio/arbeter_ring_himen/Arbeter%20Ring%20Himen%20L&R.mp3) ; [all the way through](resources/audio/arbeter_ring_himen/Arbeter%20Ring%20Himen.mp3) 
+- Arise, Arise  
+  - [Sheet music (updated March 25 2020)](resources/print/Arise%20Arise%20Mar2020v2.pdf) 
+  - Audio files  
+    - [SATB](resources/audio/arise_arise/Arise%20SATB%2003_25_20.mp3) (all parts; sung by Linda G. and Gabrielle) 
+    - [Soprano](resources/audio/arise_arise/Arise_Arise_sop.m4a) 
+    - [Alto](resources/audio/arise_arise/Arise_Arise_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/arise_arise/Arise%20tenor%20drill.mp3) ; [all the way through](resources/audio/arise_arise/Arise%20tenor.mp3) 
+    - [Bass](resources/audio/arise_arise/Arise%20Arise%20Bass.mp3) 
+- Barikadn  
+  - [Sheet music](resources/print/barikadn.pdf) 
+  - [Lyrics sheet](resources/print/barikadn_words.doc) 
+  - [Sung vocal (English)](resources/audio/barikadn/Barikadn_English.mp3) 
+  - [Sung vocal (Yiddish)](resources/audio/barikadn/Barikadn_vocal.mp3) 
+  - [Rhythm vocal](resources/audio/barikadn/Barikadn_rhythm_parts.mp3) 
+  - Yiddish pronunciation: [Listen and repeat](resources/audio/barikadn/Barikadn_pronunciation_drill.mp3) ; [all the way through](resources/audio/barikadn/Barikadn_pronunciation.mp3) 
+- Bella Ciao  
+  - [Sheet music (updated May 7, 2023)](resources/print/Bella%20Ciao%207May2023.pdf) 
+  - [Alto "cheat sheet" for song structure](resources/print/bella%20ciao%20alto%20cheat%20sheet%202023.pdf) 
+  - [Additional lyrics](resources/print/bella%20ciao.doc) 
+  - Audio files (see section leaders about 2023 changes)  
+    - Soprano I: [Listen and repeat](resources/audio/bella_ciao/Bella%20Ciao%20Soprano%20I%20Drill.mp3) ; [all the way through](resources/audio/bella_ciao/Bella%20Ciao%20Soprano%20I.mp3) ; [Nign](resources/audio/bella_ciao/Bella%20Ciao%20Soprano%20I%20Nign%20Slowly.mp3) 
+    - Soprano II: [Listen and repeat](resources/audio/bella_ciao/Bella%20Ciao%20Soprano%20I%20Drill.mp3) ; [all the way through](resources/audio/bella_ciao/Bella%20Ciao%20Soprano%20II.mp3) ; [Nign](resources/audio/bella_ciao/Bella%20Ciao%20Soprano%20II%20Nign%20Slowly.mp3) 
+    - Alto I: [Listen and repeat](resources/audio/bella_ciao/Bella%20Ciao%20Alto%20I%20Drill.mp3) ; [all the way through](resources/audio/bella_ciao/Bella%20Ciao%20Alto%20I.mp3) ; [Nign](resources/audio/bella_ciao/Bella%20Ciao%20Alto%20I%20Nign%20Slowly.mp3) 
+    - Alto II: [Listen and repeat](resources/audio/bella_ciao/Bella%20Ciao%20Alto%20II%20Drill.mp3) ; [all the way through](resources/audio/bella_ciao/Bella%20Ciao%20Alto%20II.mp3) ; [Nign](resources/audio/bella_ciao/Bella%20Ciao%20Alto%20II%20Nign%20Slowly.mp3) 
+    - Tenor (updated 5/2023): [Listen and repeat](resources/audio/bella_ciao/Bella%20Ciao%20tenor%20drill%202023_05_22.mp3) ; [all the way through](resources/audio/bella_ciao/Bella%20Ciao%20tenor%202023_05_22.mp3) ; [Nign](resources/audio/bella_ciao/Bella%20Ciao%20Tenor%20Nign%20Slowly.mp3)  [](resources/audio/bella_ciao/Bella%20Ciao%20Tenor%20Nign%20Slowly.mp3) 
+    - Bass I :  
+      - [Listen and repeat](resources/audio/bella_ciao/Bella%20Ciao%20Bass%20I%20Drill.mp3) 
+      - [all the way throughin English](resources/audio/bella_ciao/Bella%20Ciao%20Bass%20I.mp3)  
+      - [all the way throughin Italian](resources/audio/bella_ciao/Bella%20Ciao%20Bass_1%20-%20Italian.mp3) 
+      - [all the way throughin Yiddish](resources/audio/bella_ciao/Bella%20Ciao%20Bass_1%20-%20Yiddish.mp3) 
+    - Bass II:  
+      - [Listen and repeat](resources/audio/bella_ciao/Bella%20Ciao%20Bass%20Drill.mp3) 
+      - [all the way throughin English](resources/audio/bella_ciao/Bella%20Ciao%20Bass.mp3) 
+      - [all the way throughin Italian](resources/audio/bella_ciao/Bella%20Ciao%20Bass_2%20-%20Italian.mp3) 
+      - [all the way throughin Yiddish](resources/audio/bella_ciao/Bella%20Ciao%20Bass_2%20-%20Yiddish.mp3) 
+- Better Times  
+  - [Sheet music (Feb 20, 2023)](resources/print/Better%20Times%20Will%20Come%2014pt%2020Feb2023.pdf)  
+  - [Translation](resources/print/Kumen%20Vet%20Di%20Tsayt%20lyrics%20and%20translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/better_times/Better%20Times%20Yiddish%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/better_times/Better%20Times%20Yiddish%20pronunciation.mp3) 
+    - [Soprano](resources/audio/better_times/better%20times%20will%20come%20soprano.m4a) 
+    - [Alto (updated 1/23/23)](resources/audio/better_times/Better%20times%20alto%20part.m4a) 
+    - Tenor (updated 3/8/23): [Listen and repeat](resources/audio/better_times/Better%20Times%20Tenor%20Drill%202023_03_08.mp3) ; [all the way through](resources/audio/better_times/Better%20Times%20Tenor%202023_03_08.mp3)  [](resources/audio/better_times/Better%20Times%20practice%20version%20tenor%202022.12.24.mp3)  
+    - [Bass](resources/audio/better_times/Better%20Times%20straight%20thru%20MONO.mp3) 
+- Borukh Ate  
+  - [Sheet music and translation](resources/print/Borukh_Ato.pdf) 
+  - Pronunciation: [Listen and repeat](resources/audio/borukh_ate/Borukh%20Ate%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/borukh_ate/Borukh%20Ate%20pronunciation.mp3)  
+  - Tenor: [Listen and repeat](resources/audio/borukh_ate/Borukh%20Ate%20tenor%20drill.mp3) ; [all the way through](resources/audio/borukh_ate/Borukh%20Ate%20tenor.mp3) 
+- Bread and Roses  
+  - [Introduction ("Makhnes Geyen") added 2/2018](resources/print/Makhnes%20geyen%20-%20intro.pdf) 
+  - [Sheet music](resources/print/Bread_and_Roses.pdf) 
+  - [Sheet music, annotated for sopranos](resources/print/Bread_and_Roses_annotated_for_sopranos.pdf)  
+  - [Translation of Makhnes Geyen](resources/print/Bread%20and%20Roses_Makhnes%20Geyen%20translation.doc) 
+  - [Alto "cheat sheet" for song structure](resources/print/Structure_of_Bread_and_Roses_immigrant.pdf) 
+  - Audio files  
+    - [Soprano 1](resources/audio/bread_and_roses/Bread_and_Roses_Soprano1.MP3) 
+    - [Soprano 2](resources/audio/bread_and_roses/Bread_and_Roses_Soprano2.MP3) 
+    - [Tenor](resources/audio/bread_and_roses/Bread_and_Roses_Tenor.mp3) 
+    - [Bass](resources/audio/bread_and_roses/Bread_and_Roses_Bob_Bass.mp3) (From 2010) 
+    - [Bass "go marching" pattern](resources/audio/bread_and_roses/Bread%20and%20Roses%20bass%20pattern.mp3) 
+    - [Bass Page 9](resources/audio/bread_and_roses/Bread%20and%20Roses%20p9%20bass.mp3) 
+    - [Rhythm of "Liberty and Justice for All" section (uses tenor melody)](resources/audio/bread_and_roses/Bread_and_Roses_tenor_chant_for_workers.mp3) 
+    - [Rhythm of "Worker and immigrant rights" section (uses tenor melody)](resources/audio/bread_and_roses/Bread%20and%20Roses%20tenor%20topical%20lyrics%20for%20May%2016%202015%20concert.mp3) ; [sheet music edited to show rhythm](resources/print/Bread_and_Roses_Immigrant_Rights_chant.pdf)  
+- Brudershaft Lid  
+  - [Sheet music](resources/print/Brudershaft_Lid.pdf) 
+  - Audio files  
+    - Soprano: [Listen and repeat](resources/audio/brudershaft_lid/Brundershaft_Lid_Soprano_%28listen_and_repeat%29.mp3) ; [all the way through](resources/audio/brudershaft_lid/Brundershaft_Lid_Soprano_%28full_runthrough%29.mp3) 
+    - Alto: [Listen and repeat](resources/audio/brudershaft_lid/Brudershaft_Lid_Alto_%28listen_and_repeat%29.mp3) ; [](resources/audio/ale_brider/Ale_Brider-Alto_Runthrough.mp3)  [all the way through](resources/audio/brudershaft_lid/Brudershaft_Lid_Alto_%28full_runthough%29.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/brudershaft_lid/Brudershaft_Lid_tenor_drill.mp3) ; [all the way through](resources/audio/brudershaft_lid/Brudershaft_Lid_tenor.mp3) 
+    - Bass: [Listen and repeat](resources/audio/brudershaft_lid/Brudershaft_Lid_Bass_%28listen_and_repeat%29.mp3) ; [all the way through](resources/audio/brudershaft_lid/Brudershaft_Lid_Bass_%28full_runthrough%29.mp3) 
+    - [Rhythm pg 2 Soprano & Alto; pg 6 Alto & Tenor](resources/audio/brudershaft_lid/Brudershaft%20Rhythm%20pg2%20S&A%20pg6%20S&T.mp3) 
+    - 
+- [Chanukah, Oy Chanukah](resources/print/Khanike%20Oy%20Khanike.pdf) 
+- Daloy Politsey  
+  - [Sheet music](resources/print/Daloy%20Politsey%201-4v3.pdf) (updated; new lyrics; 3/6/2024) 
+  - [Lyrics and translation](resources/print/Daloy%20Politsey%20lyrics%20and%20translation.pdf) 
+  - Audio files (some pre-2024)  
+    - [English Verse](resources/audio/daloy_politsey/Daloy_Politsey_English_Verse.wav) 
+    - [English Refrain](resources/audio/daloy_politsey/Daloy_Politsey_English_refrain.wav) 
+    - Tenor (2024): [Listen and repeat](resources/audio/daloy_politsey/Daloy%20Politsey%20tenor%20Drill.mp3) ; [all the way through](resources/audio/daloy_politsey/Daloy%20Politsey%20Tenor.mp3) 
+    - [Bass](resources/audio/daloy_politsey/Daloy%20Politsey%202024%20bass%20MONO.mp3) 
+- [Der Yid Der Shmid](resources/print/Der_Yid_Der_Shmid.pdf) ; [Der Yid Der Shmid - Bass words](resources/print/Der%20Yid%20Der%20Shmid%20BASS%20words.doc) 
+- Der Yokh  
+  - [Sheet music](resources/print/Der%20Yokh%20-%20choral%20refrain.pdf) (choral refrain) 
+  - [Translation](resources/print/Der%20Yokh%20word%20by%20word%20translation.pdf) 
+  - Audio files  
+    - [Klezmatics recording](resources/audio/der_yokh/Der%20Yokh%201.2%20MIX%20REF.mp3) 
+    - Pronunciation: [Listen and repeat](resources/audio/der_yokh/Der%20Yokh%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/der_yokh/Der%20Yokh%20pronunciation.mp3)  
+    - Tenor: [Listen and repeat](resources/audio/der_yokh/Der%20Yokh%20tenor%20drill.mp3) ; [all the way through](resources/audio/der_yokh/Der%20Yokh%20tenor.mp3) 
+- Di Arbuzn / S'iz der Step  
+  - [Sheet music](resources/print/Di%20Arbuzn%20-%20SATB.pdf) 
+  - [Lyrics and translation](resources/print/Di%20Arbuzn%20lyrics%20and%20translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/di_arbuzn/Di%20Arbuzn%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/di_arbuzn/Di%20Arbuzn%20pronunciation.mp3)  
+    - [Soprano I](resources/audio/di_arbuzn/Di%20Arbuzn%20Sop%201.m4a) 
+    - [Soprano II](resources/audio/di_arbuzn/Di%20Arbuzn%20Sop%202.m4a) 
+    - [Alto](resources/audio/di_arbuzn/Di%20Arbuzn%20Alto%20part.m4a) 
+    - Tenor I: [Listen and repeat](resources/audio/di_arbuzn/Di%20Arbuzn%20Tenor%20I%20drill%20revised%2003_17_22.mp3) ; [all the way through](resources/audio/di_arbuzn/Di%20ArbuznTenor%20I%20revised%2003_17_22.mp3) 
+    - Tenor II: [Listen and repeat](resources/audio/di_arbuzn/Di%20Arbuzn%20Tenor%20II%20drill.mp3) ; [all the way through](resources/audio/di_arbuzn/Di%20Arbuzn%20Tenor%20II.mp3) 
+  - [Recording by the Pennywhistlers](https://www.youtube.com/watch?v=wRRZPUb869U) 
+  - [ABV minis performance 2019](https://youtu.be/WVhgkMRcCLI)   
+    - [Bass](resources/audio/di_arbuzn/Di%20Arbuzn%20Derek%20bass.mp3) 
+- Di Sapozhkelekh  
+  - [Sheet music](resources/print/Di%20Sapozhkelekh%20-%20ABV%20&%20Levyosn%20-%20Spanish.pdf)  
+  - Style tips from Lysander Jaffe: [zhok rhythm](resources/audio/di_sapozhkelekh/Lysander%20zhok%20rhythm.m4a) ; [using a krekht](resources/audio/di_sapozhkelekh/Using%20a%20krekht%20in%20sapozhkelekh.m4a) 
+  - Audio files  
+    - Soprano: [Spanish listen and repeat](resources/audio/di_sapozhkelekh/Di%20Sapozhkelekh%20Alto%20Span%20listen%20and%20repeat%20%282%29.m4a) ; [Spanish all the way through](resources/audio/di_sapozhkelekh/Di%20Sapozhkelekh%20Alto%20Span%20all%20the%20way%20through.m4a) 
+    - Alto: [Notes](resources/audio/di_sapozhkelekh/Di%20Sapozhelekh%20alto%20part.m4a) ; [Spanish listen and repeat](resources/audio/di_sapozhkelekh/Di%20Sapozhkelekh%20Alto%20Span%20listen%20and%20repeat%20%282%29.m4a) ; [Spanish all the way through](resources/audio/di_sapozhkelekh/Di%20Sapozhkelekh%20Alto%20Span%20all%20the%20way%20through.m4a) ; [Spanish sung](resources/audio/di_sapozhkelekh/Di%20Sapozhkelekh%20alto%20with%20Spanish.m4a) ; [more spanish practice](resources/audio/di_sapozhkelekh/Di%20Sapozhkelekh%20alto%20verse%203.m4a) 
+    - [Tenor](resources/audio/di_sapozhkelekh/Sapozkhelekh%20tenor.mp3) 
+    - [Bass m. 58-66](resources/audio/di_sapozhkelekh/di_sapozkelekh-bass-m58-66.mp3) 
+- Di Tsukunft (2024)  
+  - [Sheet music (performance version March 12 2024)](resources/print/Di%20Tsunkunft%20-%20Performance%20Version%20March2024.pdf) 
+  - [Lyrics and translation](resources/print/Di_Tsukunft_translation.pdf) 
+  - Audio files  
+    - Alto: [Verses 1-3](resources/audio/di_tsukunft/Alto%20Di%20Tsukunft%20verses%201-3.m4a) ; [verses 5-6](resources/audio/di_tsukunft/Alto%20Di%20Tsukunft%20verse%205,6.m4a) 
+    - Tenor: [Listen and repeat](resources/audio/di_tsukunft/Di%20Tsukunft%20Tenor%20Drill.mp3) ; [all the way through](resources/audio/di_tsukunft/Di%20Tsukunft%20Tenor.mp3) 
+    - [Bass](resources/audio/di_tsukunft/Di%20Tsukunft%20bass.mp3) 
+- Di Tsukunft (pre-2024)  
+  - [Sheet music](resources/print/DiTsukunft.pdf) 
+  - [Lyrics and translation](resources/print/Di_Tsukunft_translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/Di_Tsukunft/Di%20Tsukunft%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Di_Tsukunft/Di%20Tsukunft%20pronunciation.mp3) 
+    - [Soprano](resources/audio/Di_Tsukunft/Di%20Tsukunft%20-%20soprano.m4a) 
+    - [Alto](resources/audio/Di_Tsukunft/Di%20Tsukunft%20-%20alto.m4a) 
+    - Tenor: [Listen and repeat](resources/audio/Di_Tsukunft/Di%20Tsukunft%20tenor%20drill.mp3) ; [all the way through](resources/audio/Di_Tsukunft/Di%20Tsukunft%20tenor.mp3) 
+    - [Bass](resources/audio/Di_Tsukunft/Di%20Tsukunft%20-%20bass.m4a) 
+- Dire Gelt  
+  - [Sheet music](resources/print/Dire_Gelt.pdf) 
+  - Audio files  
+    - [Pronunciation](resources/audio/dire_gelt/dire_gelt_pronunciation_drill.mp3) 
+    - Soprano: [Listen and repeat](resources/audio/dire_gelt/dire_gelt_soprano_drill.mp3) ; [all the way through](resources/audio/dire_gelt/dire_gelt_soprano_nonstop.mp3) 
+    - Alto: [Listen and repeat](resources/audio/dire_gelt/dire_gelt_alto_drill.mp3) ; [](resources/audio/ale_brider/Ale_Brider-Alto_Runthrough.mp3)  [all the way through](resources/audio/dire_gelt/dire_gelt_alto_nonstop.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/dire_gelt/dire_gelt_tenor_drill.mp3) ; [all the way through](resources/audio/dire_gelt/dire_gelt_tenor_nonstop.mp3) 
+    - Bass: [Listen and repeat](resources/audio/dire_gelt/dire_gelt_bass_drill.mp3) ; [all the way through](resources/audio/dire_gelt/dire_gelt_bass_nonstop.mp3) 
+- Dona Dona (version for 2024 concert with Judy Bressler)  
+  - [Sheet music](resources/print/Dona%20Dona%20-%20ABV%20with%20Judy.pdf) 
+  - Audio files  
+    - [Alto](resources/audio/dona_dona/Dona%20Dona%20alto.m4a) 
+    - Tenor: [Listen and repeat](resources/audio/dona_dona/Dona%20Dona%20Tenor%20Drill.mp3) ; [all the way through](resources/audio/dona_dona/Dona%20Dona%20Tenor.mp3) 
+    - [Bass](resources/audio/dona_dona/Dona%20Dona%20bass%20MONO.mp3) 
+- Dona Dona  
+  - [Sheet music](resources/print/Dona_Dona.pdf) 
+  - [Lyrics and explanation of structure](resources/print/Dona%20Dona%20verses%20wDirections%20v2.doc.pdf) 
+  - Audio files  
+    - [Melody](resources/audio/dona_dona/DonaDona-Melody.mp3) 
+    - [Soprano](resources/audio/dona_dona/DonaDona-Soprano.mp3) 
+    - [Alto](resources/audio/dona_dona/DonaDona-Alto.mp3) 
+    - [Tenor](resources/audio/dona_dona/DonaDona-Tenor.mp3) 
+    - [Bass](resources/audio/dona_dona/DonaDona-Bass.mp3) 
+- Dos Land (This Land is Your Land)  
+  - [Sheet music](resources/print/This%20land%20is%20your%20land%20%28Dan%20Kahn%29%2010May2023.pdf)  
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/dos_land/Dos%20Land%20Iz%20Dayn%20Land%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/dos_land/Dos%20Land%20Iz%20Dayn%20Land%20pronunciation.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/dos_land/Dos%20Land%20tenor%20drill.mp3) ; [all the way through](resources/audio/dos_land/Dos%20Land%20tenor.mp3) 
+- [Dos Lidl fun Goldenem Land](resources/print/Dos_Lidl_fun_Goldenem_Land.pdf) 
+- Dos Naye Lid  
+  - [Sheet music](resources/print/Dos%20Naye%20Lid.pdf) ; [Translation](resources/print/Dos_Naye_Lid_translation.pdf) 
+  - Audio files  
+    - [Pronunciation](resources/audio/dos_naye_lid/Dos_Naye_Lid_Pronunciation.mp3) 
+    - [Soprano](resources/audio/dos_naye_lid/Dos%20Naye%20Lid%20EG_soprano.mp3) ; [earlier recording sung by Steve Lipsitt](resources/audio/dos_naye_lid/Dos%20naye%20lid%20%281p.%29-%20soprano.m4a) 
+    - [Alto](resources/audio/dos_naye_lid/Dos%20naye%20lid%20%281p.%29-%20alto.m4a) 
+    - Tenor: [Listen and repeat](resources/audio/dos_naye_lid/Dos%20Naye%20Lid%20tenor%20drill.mp3) ; [all the way through](resources/audio/dos_naye_lid/Dos%20Naye%20Lid%20tenor.mp3)  
+    - Bass: [No lyrics](resources/audio/dos_naye_lid/Dos%20Naye%20Lid%20basses%20MONO.mp3) ; [earlier recording with lyrics and piano sung by Steve Lipsitt](resources/audio/dos_naye_lid/Dos%20naye%20lid%20%281p.%29%20-%20bass.m4a) 
+- Dos Naye Lid (pre-2017 version)  
+  - [Sheet music](resources/print/Dos_Naye_Lid_early_version.pdf) ; [Translation](resources/print/Dos_Naye_Lid_translation.pdf) 
+  - Audio files  
+    - [Pronunciation](resources/audio/dos_naye_lid/Dos_Naye_Lid_Pronunciation.mp3) 
+    - Soprano: [Listen and repeat](resources/audio/dos_naye_lid/Dos_Naye_Lid_Soprano_drill.mp3) ; [all the way through](resources/audio/dos_naye_lid/Dos_Naye_Lid_Soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/dos_naye_lid/Dos_Naye_Lid_Alto_drill.mp3) ; [all the way through](resources/audio/dos_naye_lid/Dos_Naye_Lid_Alto.mp3) 
+    - Tenor:  
+      - Linda's audio: [Listen and repeat](resources/audio/dos_naye_lid/Dos%20Naye%20Lid%20tenor%20drill.mp3) ; [all the way through](resources/audio/dos_naye_lid/Dos%20Naye%20Lid%20tenor.mp3) 
+      - Steve's [audio](resources/audio/dos_naye_lid/Dos%20naye%20lid%20%281p.%29-%20tenor.m4a) (in correct key) 
+    - Bass: [all the way through](resources/audio/dos_naye_lid/Dos_Naye_Lid_Bass.mp3) 
+- Drey Dreydl: [Lyrics](resources/print/Drey_Dreydl_lyrics.pdf) ; [Youtube video](http://www.youtube.com/watch?v=s_Cc3btDedI&feature=youtube_gdata_player) 
+- [Dreydl](resources/print/Dreydl.pdf) 
+- Dumai  
+  - [Sheet music Pages 1-4](resources/print/Dumai_pp1-4.pdf) 
+  - [Sheet music Pages 5-6](resources/print/Dumai_pp5-6.pdf) 
+  - [Sheet music Pages 6-7](resources/print/Dumai_pp6-7.pdf) 
+  - [Complete sheet music](resources/print/Dumai_ALL.pdf) 
+  - [Bass Lyrics](resources/print/Basses/Dumai.pdf) 
+  - [Translation](resources/print/Dumai%20lyrics%20for%20chorus.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/Dumai/Dumai%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Dumai/Dumai%20pronunciation.mp3) 
+    - Pages 1-4  
+      - [Soprano](resources/audio/Dumai/Dumai%20soprano%20pp1-4.mp3) 
+      - [Alto](resources/audio/Dumai/Dumai%20alto%20pp1-4.mp3) 
+      - [Tenor](resources/audio/Dumai/Dumai%20tenor%20pp1-4.mp3) 
+      - [Bass High](resources/audio/Dumai/Dumai%20bass%20high%20pp1-4.mp3) 
+    - Pages 5-6  
+      - [Soprano](resources/audio/Dumai/Dumai%20soprano%20pp5-6.mp3) 
+      - [Alto](resources/audio/Dumai/Dumai%20alto%20pp5-6.mp3) 
+      - [Tenor](resources/audio/Dumai/Dumai%20tenor%20pp5-6.mp3) 
+      - [Bass](resources/audio/Dumai/Dumai%20bass%20pp5-6.mp3) 
+    - Measures 55-70 (bottom of page 6 through page 7)  
+      - [Soprano](resources/audio/Dumai/Dumai%20soprano%20pp6-7.mp3) 
+      - [Alto](resources/audio/Dumai/Dumai%20alto%20pp6-7.mp3) 
+      - [Tenor](resources/audio/Dumai/Dumai%20tenor%20pp6-7.mp3) 
+    - [Performed by Daniel Kahn & the Painted Bird (External link to YouTube)](https://www.youtube.com/watch?v=qRrknjO-whI) 
+- [Dunya Size (Gul)](resources/print/Dunya%20Size.pdf) 
+- Dzhankoye (2025)  
+  - [Sheet music](resources/print/Dzhankoye%20-%20ABV.pdf) 
+  - Audio files  
+    - [Alto](resources/audio/dzhankoye/Dzhankoye%20alto.m4a) 
+    - [Tenor](resources/audio/dzhankoye/Dzhankoye%20tenor.mp3) 
+- Dzhankoye (pre-2025)  
+  - [Sheet music](resources/print/Dzhankoye.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/dzhankoye/Dzhankoye%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/dzhankoye/Dzhankoye%20pronunciation.mp3)  
+    - Tenor: [Listen and repeat](resources/audio/dzhankoye/Dzhankoye_tenor_drill.mp3) ; [all the way through](resources/audio/dzhankoye/Dzhankoye_tenor.mp3) 
+- [Es Brent](resources/print/Es%20Brent.pdf) 
+- Eyder ikh leg mikh shlofn  
+  - [Sheet music](resources/print/eyder_ikh_leg_music.JPG) 
+  - [Lyrics and translation](resources/print/eyder%20ikh%20leyg%20zikh%20shlofn.pdf) 
+- Fiddler on the Roof medley  
+  - [Sheet music](resources/print/Fiddler%20Medley%20-%20vocal%20score.pdf) (Compact version posted 1/22/16) 
+  - [Translation](resources/print/fiddler_medley_translation.pdf) 
+  - Audio - Tradition  
+    - Pronunciation  
+      - Soprano: [Listen and repeat](resources/audio/fiddler_medley/Tradition%20soprano%20pronunication%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/Tradition%20soprano%20pronunication.mp3) 
+      - Alto: [Listen and repeat](resources/audio/fiddler_medley/Tradition%20alto%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/Tradition%20alto%20pronunciation.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/fiddler_medley/Tradition%20tenor%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/Tradition%20tenor.mp3)   
+      - Tenor: [Listen and repeat](resources/audio/fiddler_medley/Tradition%20tenor%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/Tradition%20tenor%20pronunciation.mp3) 
+      - Bass: [Listen and repeat](resources/audio/fiddler_medley/Tradition%20bass%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/Tradition%20bass%20pronunciation.mp3) 
+  - Audio - Anatevka  
+    - Pronunciation: [Listen and repeat](resources/audio/fiddler_medley/Anatevke%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/Anatevke%20pronunciation.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/fiddler_medley/Anatevke%20tenor%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/Anatevke%20tenor.mp3) 
+  - Audio - To Life  
+    - Pronunciation: [Listen and repeat](resources/audio/fiddler_medley/To%20Life%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/To%20Life%20pronunciation.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/fiddler_medley/To%20Life%20tenor%20drill.mp3) ; [all the way through](resources/audio/fiddler_medley/To%20Life%20tenor.mp3) 
+  - Complete medley:  
+    - [Soprano](resources/audio/fiddler_medley/fiddler-soprano.m4a) 
+    - [Alto](resources/audio/fiddler_medley/fiddler-alto.m4a) 
+    - [Tenor](resources/audio/fiddler_medley/fiddler-tenor.m4a) 
+    - [Bass](resources/audio/fiddler_medley/fiddler-bass.m4a) 
+- First Amendment  
+  - [Sheet music](resources/print/First%20Amendment.pdf) 
+  - [Audio](resources/audio/first_amendment/First%20Amendment%20parts%20I%20and%20II.mp3) 
+- General-Strayk  
+  - [Sheetmusic](resources/print/Der%20General-Shtrayk%20%28Updated%29.pdf) 
+  - [Translation](resources/print/Der%20General%20Shtrayk%20translation.jpg) 
+  - Audio  
+    - Pronunciation: [Listen and repeat](resources/audio/general_shtrayk/Der%20General%20Shtrayk%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/general_shtrayk/Der%20General%20Shtrayk%20pronunciation.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/general_shtrayk/Der%20General%20Shtrayk%20tenor.drill.mp3) ; [all the way through](resources/audio/general_shtrayk/Der%20General%20Shtrayk%20tenor.mp3) 
+- [Go Down Moses](resources/print/Go_Down_Moses.pdf) 
+- Gonna Get Through this World  
+  - [Sheet music (3/22/2024)](resources/print/Gonna%20Get%20Through%203.22.24%20Bb.pdf)  [](resources/print/Gonna%20Get%20Through%203.16.24%20Bb%20v2a%20%281%29.pdf) 
+  - [Video of Klezmatics performing live](https://www.youtube.com/watch?v=DTQwS4Ma0jw) 
+  - [Audio of Klezmatics from CD](https://www.youtube.com/watch?v=FWCvv9t0xKM) 
+  - [Audio of ABV performing with Klezmatics December 2008](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Through%20This%20World%20audio_2008.m4a) 
+  - Audio files:  
+    - Soprano I: [Listen and repeat](resources/audio/gonna_get_through_this_world/Goona%20Get%20Soprano%201%20drill.mp3) ; [all the way through](resources/audio/gonna_get_through_this_world/Goona%20Get%20Soprano%201.mp3) 
+    - Soprano II: [Listen and repeat](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Soprano%202%20drill.mp3) ; [all the way through](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Soprano%202.mp3) 
+    - Alto: [Listen and repeat](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Alto%202%20drill.mp3) (Lisa G.); [all the way through (Kim](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Through%20this%20World-alto-Kim.m4a) ); [all the way through (Lisa)](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Alto%202.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/gonna_get_through_this_world/Gonna%20Get%20tenor%20drill.mp3) ; [all the way through](resources/audio/gonna_get_through_this_world/Gonna%20Get%20tenor.mp3) 
+    - Bass: [Listen and repeat](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Bass%20drill.mp3) ; [all the way through](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Bass.mp3) 
+- Gris, Bagris  
+  - [Sheet music](resources/print/Gris,%20Bagris,%20Choral%20Version.pdf) 
+  - [Lyrics and translation](resources/print/Gris%20Bagris%20translation.pdf) 
+  - Audio files:  
+    - Recording session: [soprano](resources/audio/gris%20bagris/Gris%20CD%20T7%20mainly%20soprano.mp3) , [alto](resources/audio/gris%20bagris/Gris%20CD%20T8%20mainly%20alto.mp3) , [tenor](resources/audio/gris%20bagris/Gris%20CD%20T9%20mainly%20tenor.mp3) , [bass;](resources/audio/gris%20bagris/Gris%20CD%20T10%20mainly%20bass.mp3)  [studio mix of all voices (do not share)](resources/audio/gris%20bagris/150_voices%20-%20bo_01%20-%20zingt%20zingt%20ale%20tsuzamen_v2%20-%20200526.mp3) 
+    - Pronunciation: [Listen and repeat](resources/audio/gris%20bagris/Gris%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/gris%20bagris/Gris%20pronunciation.mp3)  
+    - Soprano: [both parts from m. 37](resources/audio/gris%20bagris/grisbagrissop1and2.mp3) 
+    - Soprano I: [Listen and repeat](resources/audio/gris%20bagris/grisbagrissoprano1listenandrepeat.mp3) ; [all the way through](resources/audio/gris%20bagris/grisbagrissoprano1.mp3) 
+    - Soprano II: [Listen and repeat](resources/audio/gris%20bagris/grisbagrissoprano2listenandrepeat.mp3) ; [all the way through](resources/audio/gris%20bagris/grisbagrissoprano2.mp3) 
+    - [Alto](resources/audio/gris%20bagris/alto.mp3) 
+    - Tenor I: [Listen and repeat](resources/audio/gris%20bagris/Gris%20tenor%20I%20drill.mp3) ; [all the way through](resources/audio/gris%20bagris/Gris%20tenor%20I.mp3) 
+    - Tenor II: [Listen and repeat](resources/audio/gris%20bagris/Gris%20tenor%20II%20drill.mp3) ; [all the way through](resources/audio/gris%20bagris/Gris%20tenor%20II.mp3) 
+    - [Bass](resources/audio/gris%20bagris/Gris%20Bagris%20-%20bass.mp3) 
+- Haleluye  
+  - [Sheetmusic](resources/print/Haleluye%20-%20Dan%20Kahn-2.pdf) 
+  - Audio files  
+    - [Tenor](resources/audio/haleluye/Haleluye%20tenor.mp3) 
+- Happy Joyous Hanukkah  
+  - [Sheet music](resources/print/Happy_Joyous_Hanukkah.pdf) (updated November 8 2012; [older hand-written version)](resources/print/Happy_Joyous_Hannukah_manuscript.pdf) 
+  - Audio files  
+    - [Soprano I](resources/audio/happy_joyous_hanukkah/HJH_Sop1.mp3) 
+    - [Soprano II](resources/audio/happy_joyous_hanukkah/HJH_Sop2.mp3) 
+    - [Alto](resources/audio/happy_joyous_hanukkah/HJH_Alto.mp3) 
+    - [Tenor](resources/audio/happy_joyous_hanukkah/HJH_Tenors.mp3) 
+    - [Bass](resources/audio/happy_joyous_hanukkah/HJH_Basses.mp3) 
+- Hermanas  
+  - [Sheet music](resources/print/Hermanas.pdf) 
+  - [Translation](resources/print/Ladino%20Translations%20-%20Hermanas%20Reina%20y%20Cautiva,%20Una%20Noche%20al%20Bodre%20de%20la%20Mar.pdf)  
+  - [Comments on Ladino pronunciation](resources/audio/Pronunciation%20-%20General%20Notes%20-%20Vowels.mp3) 
+  - [Performance by Guy MendilowEnsemble](resources/audio/hermanas/Hermanas_GME.mp3) (large file) 
+  - Audio files  
+    - Soprano I: [Listen and repeat](resources/audio/hermanas/hermanas%20sop%20I%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/hermanas/hermanas%20sop%20I%20all%20the%20way%20through.mp3) 
+    - Soprano II: [Listen and repeat](resources/audio/hermanas/hermanas%20sop%20II%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/hermanas/hermanas%20sop%20II%20all%20the%20way%20through.mp3) 
+    - Alto: [Listen and repeat](resources/audio/hermanas/hermanas%20alto%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/hermanas/hermanas%20alto%20all%20the%20way%20through.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/hermanas/hermanas%20tenor%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/hermanas/hermanas%20tenor%20all%20the%20way%20through.mp3) 
+    - Bass: [all the way through](resources/audio/hermanas/Hermanas_bass.mp3) 
+    - [Pronunciation](resources/audio/hermanas/Pronunciation%20-%20Hermanas%20Reina%20Y%20Cautiva.mp3)  
+- Hof un Gloyb  
+  - [Sheet music](resources/print/hof_un_glob_new.pdf) (new April 2015; different key; Steve Lipsitt's interpretation; easy to read); [old sheet music](resources/print/Hof%20un%20gloyb.pdf) 
+  - [Lyrics and translation](resources/print/Hof_un_Gloyb_lyrics.pdf) 
+  - Audio files  
+    - [A Besere Velt performance recording](resources/audio/hof_un_gloyb/Hof%20un%20Gloyb.mp3) 
+    - [Entire song](resources/audio/hof_un_gloyb/Hof%20un%20Gloib_new_audio.mp3) (computer generated) [](resources/audio/hof_un_gloyb/Hof%20un%20Gloib_new_audio.mp3) 
+    - [Soprano](resources/audio/hof_un_gloyb/Hof%20un%20Gloib-soprano.mp3) (computer generated) 
+    - [Alto](resources/audio/hof_un_gloyb/Hof%20un%20Gloib-alto.mp3) (computer generated) 
+    - Tenor: [Listen and repeat](resources/audio/hof_un_gloyb/Hof%20un%20Gloyb%20tenor%20drill.mp3) ; [all the way through](resources/audio/hof_un_gloyb/Hof%20un%20Gloyb%20tenor.mp3)  
+    - Bass: [Listen and repeat](resources/audio/hof_un_gloyb/Hof%20un%20Gloyb%20Bass%20-%20listen-repeat.mp3) ; [all the way through](resources/audio/hof_un_gloyb/Hof%20un%20Gloyb%20Bass%20-%20alltheway.mp3) 
+- [Holy Ground](resources/print/Holy_Ground.pdf) 
+- []() Hulyet, Hulyet (A Vinter Lid)  
+  - [Sheet music](resources/print/Hulyet%20music.pdf) 
+  - [Translation and words for all verses](resources/print/HULYET%20HULYET%20words%20and%20translation.pdf) 
+  - Audio files  
+    - [Soprano](resources/audio/hulyet/Hulyet%20soprano.mp3) 
+    - [Alto](resources/audio/hulyet/Hulyet%20alto.mp3) 
+    - [Tenor](resources/audio/hulyet/Hulyet%20tenor.mp3) 
+    - [Bass](resources/audio/hulyet/Hulyet%20bass%20melody.mp3) 
+- I Ain't Afraid  
+  - [Sheet music](resources/print/I_Aint_Afraid_compact.pdf) (compact version 4/25/16. reflects ABV performance with Klezmatics. Old music is [here)](resources/print/I_Aint_Afraid.pdf) 
+  - [Lyrics with guidance](resources/print/I%20Ain%27t%20Afraid%20lyrics%2011_20_16.pdf) 
+  - Audio files 
+  - [ABV performance with Klezmatics](https://www.youtube.com/watch?v=80nqk2164tI)   
+    - Pronunciation: [Listen and repeat](resources/audio/i_aint_afraid/I%20Ain%27t%20Afraid%20Yiddish%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/i_aint_afraid/I%20Ain%27t%20Afraid%20Yiddish%20pronunciation.mp3) 
+    - [Soprano I](resources/audio/i_aint_afraid/I%20Aint%20Afraid%20soprano%201%20%282%29.mp3)  [](resources/audio/gonna_get_through_this_world/Goona%20Get%20Soprano%201.mp3) 
+    - [Soprano II](resources/audio/i_aint_afraid/I%20Aint%20Afraid%20soprano%202.mp3)  [](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Soprano%202.mp3) 
+    - [Alto](resources/audio/i_aint_afraid/I%20Aint%20Afraid%20alto.mp3)  [](resources/audio/gonna_get_through_this_world/Gonna%20Get%20Alto%201.mp3) 
+    - [Tenor (singalong with Klezmatics recording)](resources/audio/i_aint_afraid/I%20Aint%20Afraid%20Tenor%20w%20Klezmatics.mp3)  [](resources/audio/gonna_get_through_this_world/Gonna%20Get%20tenor.mp3) 
+    - [Bass](resources/audio/i_aint_afraid/I%20Aint%20Afraid%20bass.mp3) 
+- I Am Willing / Kh'hob Dem Kheyshek  
+  - [Sheet music](resources/print/Ikh%27hob%20dem%20gloybn%20-%20I%20am%20Willing.pdf) 
+  - [Translation](resources/print/Kh%27hob%20Dem%20Kheyshek%20translation.pdf) 
+  - Audio files:  
+    - Recording session: [soprano](resources/audio/i_am_willing/Kheyshek%20CD%20T7%20mainly%20soprano.mp3) , [alto](resources/audio/i_am_willing/Kheyshek%20CD%20T8%20mainly%20alto.mp3) , [tenor](resources/audio/i_am_willing/Kheyshek%20CD%20T9%20mainly%20tenor.mp3) , [bass;](resources/audio/i_am_willing/Kheyshek%20CD%20T10%20mainly%20bass.mp3)  [rough mix all voices (do not share)](resources/audio/i_am_willing/Kheyshek%20rough%20mix%3b%20do%20not%20share.mp3) 
+    - Pronunciation: [Listen and repeat](resources/audio/i_am_willing/Kh%27hob%20Dem%20Kheyshek%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/i_am_willing/Kh%27hob%20Dem%20Kheyshek%20pronunciation.mp3) 
+    - Soprano: [With piano for soloist parts](resources/audio/i_am_willing/khobdemgloybn_soprano_wpiano.mp3) ; [vocal only](resources/audio/i_am_willing/khobdemgloybn_soprano_nopiano.mp3) 
+    - [Alto](resources/audio/i_am_willing/I_am_willing_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/i_am_willing/Kh%27hob%20Dem%20Kheyshek%20tenor%20drill.mp3) ; [all the way through](resources/audio/i_am_willing/Kh%27hob%20Dem%20Kheyshek%20tenor.mp3) 
+    - [Bass](resources/audio/i_am_willing/bass-Kh%27hob%20dem%20Gloybn-I%20Am%20Willing.mp3) 
+  - [Polina Shepherd and Lorin Sklamberg recording](https://www.youtube.com/watch?v=njQiReoGOqQ) 
+  - [Holly Near recorded version on YouTube (from album Show Up)](https://www.youtube.com/watch?v=1AkGk5maD8Q) 
+- I Shall be Released/Ikh Vel Zayn Bafrayt  
+  - [Sheet music](resources/print/ABV_I%20Shall%20Be%20Released_V1.pdf) 
+  - [Translation](resources/print/I%20Shall%20Be%20Released-%20Yiddish%20by%20Daniel%20Kahn.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/ikh_vel_zayn_bafrayt/Ikh%20Vel%20Zayn%20Bafrayt%20Pronunciation%20drill.mp3) ; [all the way through](resources/audio/ikh_vel_zayn_bafrayt/Ikh%20Vel%20Zayn%20Bafrayt%20Pronunciation.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/ikh_vel_zayn_bafrayt/Ikh%20Vel%20Zayn%20Bafrayt%20Tenor%20drill.mp3) ; [all the way through](resources/audio/ikh_vel_zayn_bafrayt/Ikh%20Vel%20Zayn%20Bafrayt%20Tenor.mp3) 
+    - [Bass](resources/audio/ikh_vel_zayn_bafrayt/I%20Shall%20Be%20Released%20bass.mp3) 
+  - [Performance by Daniel Kahn](https://www.youtube.com/watch?v=QggGhOZLK1Y) 
+- Im Ein Ani Li  
+  - [Sheet music](resources/print/Applebaum-ImEinAniChnt-LARGER.pdf) 
+  - Audio files  
+    - [Soprano/Alto through m. 47](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li%20unison%20M1-47.mp3) 
+    - [Soprano (from Koleinu)](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li-sop%20-%209_9_25,%202.54%20PM.m4a) 
+    - [Alto (from Koleinu)](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li-alt%20-%209_9_25,%204.04%20PM.m4a) 
+    - [Tenor/Bass (identical except m. 26-27 / 0:55 bass stays 1 octave lower; same at m. 74-76, 58-60)](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li-TB.m4a) 
+    - [Tenor](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li%20full%20song%20tenor.mp3) : [Listen and repeat m. 1-47](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li%20tenor%20drill%20m1-47.mp3) ; [listen and repeat m. 81-102](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li%20tenor%20drill%20m81-102.mp3) ; [all the way through](resources/audio/im_ein_ami_li/Im%20Ein%20Ani%20Li%20full%20song%20tenor.mp3) 
+    - [Bass](resources/audio/im_ein_ami_li/ImEinAniLi%20Bass%20MONO.mp3) 
+- In Der Kuznye  
+  - [Sheet music](resources/print/In%20der%20Kuznye.pdf) 
+  - [Translation](resources/print/In%20der%20Kuznye_translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/in_der_kuznye/In%20der%20kuznye%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/in_der_kuznye/In%20der%20kuznye%20pronunciation.mp3) 
+    - [Complete song](resources/audio/in_der_kuznye/In%20der%20Kuznye_all.mp3) (machine-generated) 
+    - Soprano: [Listen and repeat](resources/audio/in_der_kuznye/InDerKuznye-soprano%20Listen-Repeat.mp3) ; [all the way through;](resources/audio/in_der_kuznye/InDerKuznye-soprano%20All-the-way-through.mp3) 
+    - [machine-generated](resources/audio/in_der_kuznye/In%20der%20Kuznye_soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/in_der_kuznye/InDerKuznye-altoListen-Repeat.mp3) ; [all the way through;](resources/audio/in_der_kuznye/InDerKuznye-alto%20All-the-way-through.mp3) 
+    - [machine-generated](resources/audio/in_der_kuznye/In%20der%20Kuznye_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/in_der_kuznye/In%20der%20kuznye%20tenor%20drill.mp3) ; [all the way through](resources/audio/in_der_kuznye/In%20der%20kuznye%20tenor.mp3) 
+    - Bass:  
+      - Verse 1: [Listen and repeat](resources/audio/in_der_kuznye/In%20der%20kuznye2%20-%20L&R.mp3) ; [all the way through;](resources/audio/in_der_kuznye/In%20der%20kuznye2.mp3)  
+      - Verses 2-4: [Listen and repeat](resources/audio/in_der_kuznye/In%20der%20kuznyev2-4%20L-R.mp3) ; [all the way through](resources/audio/in_der_kuznye/In%20der%20kuznyev2-4.mp3) 
+- In Kamf/Di Shvue/Internationale (medley)  
+  - [Recording](http://www.youtube.com/watch?v=SZ0ouj3oRhE) with translation of In Kamf. 
+  - [Sheet music](resources/print/In_Kamf_Di_Shvue_Which_Side.pdf) 
+  - [Recording](music-current.html#%20http://www.youtube.com/watch?v=1L8RaM7GyGI) with translation of Di Shvue. Linda Gritz: "Great images of older and newer labor and civil rights struggles, except that the flag noted in the song should be red (Di fon di royte iz hoykh un breyt means Our red flag is high and wide)." See the following: 
+  - [Translation of Di Shvue lyrics](resources/print/di_shvue_translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/in_kamf/Kamf%20Shvue%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/in_kamf/Kamf%20Shvue%20pronunciation.mp3)  
+    - Soprano: [Listen and repeat](resources/audio/in_kamf/in%20kamf-di%20shvue%20soprano%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/in_kamf/in%20kamf-di%20shvue%20soprano%20all%20the%20way%20through.mp3) 
+    - Alto: [Listen and repeat](resources/audio/in_kamf/in%20kamf-di%20shvue%20alto%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/in_kamf/in%20kamf-di%20shvue%20alto%20all%20the%20way%20through.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/in_kamf/Kamf%20Shvue%20Which%20Side%20tenor%20drill.mp3) ; [all the way through](resources/audio/in_kamf/Kamf%20Shvue%20Which%20Side%20tenor.mp3) 
+    - Bass: [all the way through](resources/audio/in_kamf/Bass_In%20Kamf-Di%20Shvue-Which.mp3) 
+- Internationale: see [The Internationale](music-complete.html#internationale) 
+- Ishmael  
+  - [Sheet music](resources/print/Ishmael.pdf) 
+  - [Performance by Guy MendilowEnsemble](resources/audio/Ismael/Ishmael_GME.mp3) (large file) 
+  - [Pronunciation](resources/audio/Ismael/Pronunciation%20-%20Ismael.mp3) 
+  - 
+  - Audio files  
+    - [Pronunciation](resources/audio/Ismael/Pronunciation%20-%20Ismael.mp3) 
+    - Soprano I: [Listen and repeat](resources/audio/Ismael/ishmael%20soprano%20I%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/Ismael/ishmael%20soprano%20I%20all%20the%20way%20through.mp3) 
+    - Soprano II and Alto: [Listen and repeat](resources/audio/Ismael/ishmael%20soprano%20II%20and%20alto%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/Ismael/ishmael%20soprano%20II%20and%20alto%20all%20the%20way%20through.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/Ismael/ishmael%20tenor%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/Ismael/ishmael%20tenor%20all%20the%20way%20through.mp3) 
+    - Bass: [Explanatory intro](resources/audio/Ismael/Ishmael%20explanatory%20intro.mp3) ; [all the way through (updated 10/14/13)](resources/audio/Ismael/Ishmael%20all%20the%20way_bass_v2.mp3) 
+- Keloglan  
+  - [Sheet music](resources/print/Keloglan.pdf) 
+  - [Audio:Choral Performance with Instruments](resources/audio/Keloglan/Keloglan.mp3) 
+- Khaverim  
+  - [Sheet music](resources/print/Khaverim_5.pdf) 
+  - [Bass Lyrics](resources/print/Basses/Khaverim.pdf) 
+  - [Translation](../resources/print/Di%20Bekhers%20Mit%20Vayn%20translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](../resources/audio/Khaverim/Khaverim%20pronunciation%20drill.mp3) ; [all the way through](../resources/audio/Khaverim/Khaverim%20pronunciation.mp3)  
+    - [Soprano](../resources/audio/Khaverim/Khaverim%20-%20soprano.m4a) 
+    - [Alto](../resources/audio/Khaverim/Khaverim%20-%20alto.m4a) 
+    - [Tenor](../resources/audio/Khaverim/Khaverim%20-%20tenor.m4a) 
+    - [Bass](../resources/audio/Khaverim/Khaverim%20-%20bass.m4a) 
+  - [Sung by Polina Shepherd & Lorin Sklamberg (in a different key)](../resources/audio/Di%20Bekhers%20Mit%20Vayn/Di%20Bekhers%20Mit%20Vayn.wma) 
+- Kholemen Khaloymes  
+  - [Sheet music](resources/print/Kholomen%20Khaloymes_VH%20edition.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/kholemen/Kholemen%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/kholemen/Kholemen%20pronunciation.mp3)  
+    - [Alto](resources/audio/kholemen/Kholemen%20Khaloymes_alto.m4a) 
+    - Tenor and Bass: [Listen and repeat](resources/audio/kholemen/Kholemen%20Tenor%20Bass%20drill.mp3) ; [all the way through](resources/audio/kholemen/Kholemen%20Tenor%20Bass.mp3) 
+  - [Translation](resources/print/Kholemen-Khaloymes-translation.pdf) 
+  - [Video](https://www.youtube.com/watch?v=45qLIaolh-c) 
+- Klayb Zikh Tsunoyf  
+  - [Sheet music](resources/print/Klayb%20Zikh%20Tsunoyf%202%20-%20ABV.pdf) 
+  - [Alto](resources/audio/klaybt_zikh/Klaybt%20Zikh%20Tsunoyf.m4a) 
+- Kum Aroys  
+  - [Sheet music in 14pt, Feb 18 2023](resources/print/Kum%20Aroys%2014pt%2018Feb2023.pdf) ; [Sheet music in 18pt, Feb 18, 2023)](resources/print/Kum%20Aroys%2018pt%2018Feb2023.pdf) 
+  - [Translation](resources/print/Kum%20Aroys%20Tsu%20Mir%20Mayn%20Libste%20lyrics%20and%20translation.pdf)  
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/kum_aroys/Kum%20Aroys%20Tsu%20Mir%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/kum_aroys/Kum%20Aroys%20Tsu%20Mir%20pronunciation.mp3) 
+    - [Entire song, computer generated](resources/audio/kum_aroys/Kum%20Aroys%20%28audio%29.wav)  
+    - Alto: [Entire song (2/17/23);](resources/audio/kum_aroys/KumAroys%20alto%202%2017%2022.m4a)  [With lyrics, through m. 46](resources/audio/kum_aroys/Kum%20Aroys%20With%20Lyrics%20to%20m46%20.mp3) ; [rhythm practice on "ta", m, 32-46)](resources/audio/kum_aroys/Kum%20aroys%20m32-46%20on%20ta.m4a) , [From Section C;](resources/audio/kum_aroys/Kum%20Aroys%20from%20C.m4a)  [page 5 with lyrics;](resources/audio/kum_aroys/Kum%20aroys%20p5%20lyrics.m4a)  [page 5 "ta"](resources/audio/kum_aroys/Kum%20aroys%20p5%20ta-ta.m4a) ; [page 6 with lyrics](resources/audio/kum_aroys/Kum%20aroys%20p6%20lyrics.m4a) ; [page 6 "ta"](resources/audio/kum_aroys/Kum%20aroys%20p6%20ta-ta.m4a) 
+    - Tenor: [Listen and repeat (through m. 81)](resources/audio/kum_aroys/Kum%20Aroys%20Tsu%20Mir%20Tenor%20drill%20through%20Measure%2081.mp3) ; [all the way through (through m. 81)](resources/audio/kum_aroys/Kum%20Aroys%20Tsu%20Mir%20Tenor%20through%20Measure%2081.mp3) 
+    - Bass: [Listen and repeat (through m. 47)](resources/audio/kum_aroys/Kum%20Aroys%20basses%20M1-47%20straight%20thru%20MONO%20listen-repeat.mp3) ; [all the way through (through m. 47)](resources/audio/kum_aroys/Kum%20Aroys%20basses%20M1-47%20straight%20thru%20MONO.mp3) ; [m. 48-69](resources/audio/kum_aroys/Kum%20Aroys%20basses%20M48-69%20straight%20thru%20MONO.mp3) ; [m. 30 correction](resources/audio/kum_aroys/Kum%20Aroys%20correction%20M30.mp3) 
+- La Rosa Enflorece  
+  - [Sheet music](resources/print/La%20Rosa.pdf) 
+  - Audio files:  
+    - [Bass](resources/audio/la_rosa/La%20Rosa,%20Piano,%20Bass.mp3) (on piano) 
+- Lady of the Harbor  
+  - [Sheet music](resources/print/Lady%20of%20the%20Harbor%20Pt1%201-22-16.pdf) part 1 (updated 1/22/16) 
+  - [Sheet music](resources/print/Lady%20of%20the%20Harbor%20Pt2%20ALL%2010-30-16%20chorus%20only.pdf) part 2 (minis; updated 10/30/16) 
+  - [Sheet music](resources/print/Lady%20Harbor%20Pt3%20ALL%202-17-16-adjust.pdf) part 3. Correction for tenor: In measure 28, "with" (the second note) should be A, not E. 
+  - [Lyrics](resources/print/Lady_of_the_Harbor_lyrics.pdf) 
+  - Audio files  
+    - [Si Kahn performance](resources/audio/lady_of_the_harbor/23%20Lady%20of%20the%20Harbor.mp3) (lyrics slight different from our version) 
+    - [Soprano I](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt1%20Sop1.mp3) 
+    - [Soprano II](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt1%20Sop2.mp3) 
+    - [Soprano (all) part 3](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt3%20Sop.mp3) 
+    - [Alto part 1](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt1%20altos.mp3) ; [Alto part 3](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20Pt3%20Alto.mp3)  [](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt1%20altos.mp3)  
+    - [Tenor part 1](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt1%20tenors.mp3) ; [Tenor part 3](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20Pt3%20Tenor.mp3)  [](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt1%20tenors.mp3) 
+    - [Bass part 1](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt1%20basses.mp3) ; [Bass part 3](resources/audio/lady_of_the_harbor/Lady%20of%20the%20Harbor%20ALL%20Pt3%20Bass.mp3) 
+- [Lidl fun Goldenem Land](resources/print/dos_lidl_fun_goldenem_land) 
+- Lid fun Trayengl Fayer  
+  - [Sheet music](resources/print/Lid%20fun%20Trayengl%20Fayer.pdf) 
+  - [Translation for soloist words](resources/print/Lid%20Fun%20Trayengl%20Fayer%20translation.doc) ; [Pronunciation](resources/audio/lid_fun_trayengl_fayer/Lid%20Fun%20Trayengl%20Fayer%20pronunciation.mp3)  
+  - Audio files  
+    - Soprano: [all the way through](resources/audio/lid_fun_trayengl_fayer/Lid%20Fun%20Trayengl%20Fayer%20soprano.mp3) 
+    - Alto: [all the way through](resources/audio/lid_fun_trayengl_fayer/Lid%20Fun%20Trayengl%20Fayer%20alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/lid_fun_trayengl_fayer/Lid%20Fun%20Trayengl%20Fayer%20tenor%20drill.mp3) ; [all the way through](resources/audio/lid_fun_trayengl_fayer/Lid%20Fun%20Trayengl%20Fayer%20tenor.mp3) 
+- Lift Ev'ry Voice+Hof un Gloib  
+  - [Sheet music](resources/print/Hof%20un%20Gloyb-Lift_Evry_Voice.pdf) (uploaded 5/4/16) 
+  - [Lyrics to Lift Ev'ry Voice](resources/print/Lift_Every_Voice_Lyrics.pdf) 
+  - Audio files  
+    - Tenor: [Listen and repeat](resources/audio/lift_evry_voice/Lift%20Every%20Voice%20and%20Sing%20tenor%20drill.mp3) ; [all the way through](resources/audio/lift_evry_voice/Lift%20Every%20Voice%20and%20Sing%20tenor.mp3) 
+- [Lo Yare'u/V'chit'tu](resources/print/Lo%20Yare%27u_V%27chit%27tu-arr.%20CM.pdf)   
+  - [Sheet music](resources/print/Lo%20Yare%27u_V%27chit%27tu-arr.CM.pdf) 
+  - Audio files  
+    - [Tenor](resources/audio/lo_yare/Lo%20Yare-u-tenor.m4a) 
+- Lomir Zingen Dos Naye Lid  
+  - [Sheet music](resources/print/Lomir%20Zingen%20-%20Byrd_PDF.pdf) 
+  - [Soprano/Tenor/Bass (sopranos sing an octave down)](resources/audio/lomir_zingen_dos_naye_lid/Lomer%20Zingen%20dos%20Naye%20Lid.mp3) 
+- Machine Song (I Am a Machine)  
+  - [Sheet music](resources/print/machine_song.pdf) 
+  - Soprano: [Listen and repeat](resources/audio/machine_song/Mashin_soprano_drill.mp3) ; [](resources/audio/ale_brider/Ale_Brider-Alto_Runthrough.mp3)  [all the way through](resources/audio/machine_song/Mashin_soprano.mp3) 
+  - Alto: [Listen and repeat](resources/audio/machine_song/Mashin_alto_drill.mp3) ; [Extra drill of tricky spots](resources/audio/machine_song/Mashin_alto_extra_drill.mp3) ; [all the way through](resources/audio/machine_song/Mashin_alto.mp3) 
+  - Tenor: [Listen and repeat](resources/audio/machine_song/Mashin_tenor_drill.mp3) ; [](resources/audio/ale_brider/Ale_Brider-Alto_Runthrough.mp3)  [all the way through](resources/audio/machine_song/Mashin_tenor.mp3) 
+- Makhatonim Geyen  
+  - [Sheet music (practice version; revised 10/23)](resources/print/Mekhutonim%20Geyen_Practice%20Version_2.pdf) 
+  - [Sheet music (performance version; revised 11/22/19)](resources/print/Mekhutonim%20Geyen_Original_For%20Polin%20and%20Lorin%2011-21-19.pdf) 
+  - [Translation](resources/print/Di%20Makhetonim%20Geyen%20%20translation.pdf) 
+  - Audio files:  
+    - Recording session: [soprano](resources/audio/makhetonim/Makhetonim%20CD%20T7%20mainly%20soprano.mp3) , [alto](resources/audio/makhetonim/Makhetonim%20CD%20T8%20mainly%20alto.mp3) , [tenor](resources/audio/makhetonim/Makhetonim%20CD%20T9%20mainly%20tenor.mp3) , [bass;](resources/audio/makhetonim/Makhetonim%20CD%20T10%20mainly%20bass.mp3)  [rough mix all voices (do not share)](resources/audio/makhetonim/Mekhutonim%20rough%20mix%3b%20do%20not%20share.mp3) 
+    - Pronunciation: [Listen and repeat](resources/audio/makhetonim/Makhetonim%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/makhetonim/Makhetonim%20pronunciation.mp3)  
+    - [Tsiribam section rhythm](resources/audio/makhetonim/Mekhutonim%20-%20Tshiribim%20rhythm.mp3)  
+    - [Soprano](resources/audio/makhetonim/makhetonimpracticeversionsoprano.mp3) 
+    - [Alto](resources/audio/makhetonim/Makhetonim-alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/makhetonim/Makhetonim%20tenor%20drill.mp3) ; [all the way through](resources/audio/makhetonim/Makhetonim%20tenor.mp3) 
+    - [Bass](resources/audio/makhetonim/Makhutonim%20Geyen-Basses.mp3) 
+- May Lid  
+  - [Sheet music](resources/print/May%20Lid%20-%20Revised%20Edition.pdf) 
+  - [Lyrics and translation](resources/print/May%20Lid%20lyrics%20and%20translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/may_lid/May%20Lid%20pronunciation%20drill%20mp3.mp3) ; [all the way through](resources/audio/may_lid/May%20Lid%20pronunciation%20mp3.mp3) 
+    - [Soprano](resources/audio/may_lid/mai%20lid%20soprano.m4a) 
+    - [Alto](resources/audio/may_lid/may_lid_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/may_lid/May%20Lid%20tenor%20drill%20mp3.mp3) ; [all the way through](resources/audio/may_lid/May%20Lid%20tenor%20mp3.mp3) 
+    - [Bass](resources/audio/may_lid/Mai%20Lid%20bass%20w%20new%20ending%20mono.mp3) 
+- Mayn harts, mayn harts  
+  - [Sheet music (first three pages)](resources/print/Mayn%20harts%20-%20first%20three%20pages%20%2812-02-2022%29.pdf) 
+  - Original melody: [Words and music](resources/print/Mayn%20Harts,%20Mayn%20Harts%20-%20Complete.pdf) ; [Words only](resources/print/Mayn%20Harts,%20Mayn%20Harts_%20Ruth%20Rubin%20Archives.jpg) 
+- Mayn Rue Plats  
+  - [Sheet music](resources/print/MaynRuePlats.pdf) (updated for clarity 2/2020; same music as 2/2019 but easy to read) 
+  - Older sheet music: [2/2019 with additional verse](resources/print/Mayn%20Rue%20Plats%20all%20verses.pdf) ; [older version with duet](resources/print/mayn_rue_plats.pdf) 
+  - [Translation](resources/print/Mayn%20Rue%20Plats.rtf) 
+  - Audio files  
+    - [Soprano](resources/audio/mayn_rue_plats/Mayn%20Rue-Plats_sop.m4a) 
+    - Alto [(no verse 3 or m. 24-36)](resources/audio/mayn_rue_plats/Mayn_Rue_Plats_alto_2020.mp3) ; [m. 24-36 verse 3 "ta"](resources/audio/mayn_rue_plats/Mayn%20rue-plats%20mm24-36%20on%20TA.m4a) ; [m. 24-36 verse 3 words](resources/audio/mayn_rue_plats/Mayn%20rue-plats%20mm%2024-36%20is.m4a) ; [from m. 24 with words](resources/audio/mayn_rue_plats/Mayn%20Rue%20Plats%20alto%20from%20m.24.m4a)  [](resources/audio/mayn_rue_plats/Mayn%20rue-plats%20mm%2024-36%20is.m4a) 
+    - Tenor; now includes second verse: [Listen and repeat](resources/audio/mayn_rue_plats/Mayn%20Rue%20Plats%202019%20%20tenor%20drill.mp3) ; [all the way through](resources/audio/mayn_rue_plats/Mayn%20Rue%20Plats%202019%20tenor.mp3) 
+    - Bass: [Listen and repeat](resources/audio/mayn_rue_plats/Mayn%20rue-Plats%20v1-3%20List-Rept.mp3) ; [all the way through;](resources/audio/mayn_rue_plats/Mayn%20rue-Plats%20v1-3%20MONO.mp3)  [verse 3 only all the way through](resources/audio/mayn_rue_plats/Mayn%20rue-Plats%20v3%20MONO.mp3) 
+    - [Pronunciation](resources/audio/mayn_rue_plats/Mayn%20Rue%20Plats%20Pronunciation%20Drill.mp3)  
+    - [Recording](https://www.mazicmusic.com/MP3/Year%20in%20Yiddish%20Song/Mayn%20rue-plats.mp3) , all four verses of current arrangement 
+- [Mayn Tsavoe](resources/print/Mayn_Tsavoe_translation.pdf) ; [Mayn_Tsavoe translation](resources/print/Mayn_Tsavoe_translation.pdf) 
+- Mayn Yingele  
+  - [Sheet music](resources/print/Mayn_Yingele.pdf) 
+  - [Translation](resources/print/Mayn%20Yingele%20lyrics%20and%20translation.pdf) 
+  - Audio files  
+    - Pronunciation at rehearsal letters D and E: [Listen and repeat](resources/audio/mayn_yingele/Mayn%20Yingele%20%20Pronunciation%20D%20and%20E%20drill.mp3) ; [all the way through](resources/audio/mayn_yingele/Mayn%20Yingele%20Pronunciation%20D%20and%20E.mp3) 
+    - [Soprano](resources/audio/mayn_yingele/Mayn%20Yingele%20Soprano%201.m4a) ; [Soprano II from F](resources/audio/mayn_yingele/Mayn%20Yingele%20Soprano%202%20from%20F.m4a)  
+    - [Alto](resources/audio/mayn_yingele/Mayn%20Yingele%20Altos.m4a) 
+    - [Tenor](resources/audio/mayn_yingele/Mayn%20Yingele%20Tenors.m4a) 
+    - Bass: [sung by Derek](resources/audio/mayn_yingele/Mayn%20Yingele%20Bass.m4a) ; [sung by Bob F.](resources/audio/mayn_yingele/Mayn%20Yingele%20Bass.mp3) 
+- Neyn Neyn  
+  - [Sheet music](resources/print/Neyn%20Neyn%20Neyn.pdf)   
+    - [Translation](resources/print/Neyn%20Neyn%20Neyn%20translation.pdf) 
+    - Audio files:  
+      - [Pronunciation](resources/audio/neyn_ney_neyn/Neyn%20pronunciation.mp3) 
+      - Tenor: [Listen and repeat](resources/audio/neyn_ney_neyn/Neyn%20tenor%20drill.mp3) ; [all the way through](resources/audio/neyn_ney_neyn/Neyn%20tenor.mp3) 
+- [Ot Azoy Neit a Shneider](resources/print/Ot_Azoi.pdf) 
+- [Oyfn Pripetshik](resources/print/Oyfn%20Pripetshik.pdf) 
+- Peace Canon  
+  - [Sheet music](resources/print/Peace%20Canon.pdf) 
+  - Audio files:  
+    - [Listen and repeat](resources/audio/peace%20canon/Peace%20Canon%20In%20Sections.m4a) 
+    - [all the way through](resources/audio/peace%20canon/Peace%20Canon%20All%20The%20Way%20Though.m4a) 
+- [Peace, Salaam, Shalom](resources/print/Peace_Salaam_Shalom.pdf) 
+- Pleytem Tsuzamen  
+  - [Sheet music](resources/print/pleytem%20tsuzamen%20SATB%2010_15_2023%20ABV.pdf) 
+  - [Translation](resources/print/PLEYTEM%20TSUZAMEN%20text%20LIT-LAT-OYS%20for%20ABV.pdf) 
+  - Audio files:  
+    - Pronunciation: [Listen and repeat](resources/audio/pleytem/Pleytem%20Tsuzamen%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/pleytem/Pleytem%20Tsuzamen%20pronunciation%20nonstop.mp3) 
+    - [Alto:](resources/audio/pleytem/Alto-Pleytem%20Tsuzamen%20yadadays.m4a)  [nign (D to end)](resources/audio/pleytem/Alto-Pleytem%20Tsuzamen%20yadadays.m4a) ; [verse 4](resources/audio/pleytem/Pleytem%20Tzusamen%20alto%20verse%204.m4a)  [](resources/audio/pleytem/Alto-Pleytem%20Tsuzamen%20yadadays.m4a) 
+    - Bass: [listen and repeat A through D](resources/audio/pleytem/PlaytemAtoD%20words%20listen-rept%20MONO-bass.mp3) ; [all the way through A-D](resources/audio/pleytem/PlaytemAtoD%20words%20MONO-bass.mp3)   
+      - [wordless A through D](resources/audio/pleytem/PleytemAtoD%20MONO.mp3) 
+      - nign (D to end) [Listen and repeat](resources/audio/pleytem/Bass%20Playtem%20-%20nign%20Listen-Rept.mp3) ; [all the way through](resources/audio/pleytem/Bass%20Playtem%20-%20nign%20MONO.mp3)  [](resources/audio/pleytem/Bass%20Playtem%20-%20nign%20MONO.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/pleytem/Pleytem%20Tsuzamen%20tenor%20drill.mp3) ; [all the way through](resources/audio/pleytem/Pleytem%20Tsuzamen%20tenor.mp3) 
+- Quiet  
+  - [Sheet music](resources/print/%28I%20Can%27t%20Keep%29%20Quiet%20-%20SL-ABV%20revision.pdf) 
+  - Audio files  
+    - [Soprano](resources/audio/Quiet/Quiet%20-%20soprano.m4a) 
+    - [Alto](resources/audio/Quiet/Quiet%20-%20alto.m4a) 
+    - [Tenor](resources/audio/Quiet/Quiet%20-%20tenor.m4a) 
+    - [Bass](resources/audio/Quiet/Quiet%20-%20bass.m4a) 
+  - Audio files  
+    - [Soprano (Melody)](https://drive.google.com/open?id=0B--bpIWFR__oclpLdGRPY1pSSW8) 
+    - [Alto (Harmony 1)](https://drive.google.com/open?id=0B--bpIWFR__oa2JUZERsbXhYbWs) 
+    - [Tenor (Harmony 2)](https://drive.google.com/open?id=0B--bpIWFR__od1BTVVVlSElLS0E) 
+    - [Bass (Harmony 3)](https://drive.google.com/open?id=0B--bpIWFR__oQlZHUlpfVGZRYlk) 
+- Rise Up in Protest  
+  - [Sheet music](resources/print/rise_in_protest.pdf) 
+  - Audio files  
+    - Soprano 1: [listen and repeat](resources/audio/rise_up_in_protest/Rise_in_Protest_soprano_I_drill.mp3) ; [all the way through](resources/audio/rise_up_in_protest/Rise_in_Protest_soprano_I.mp3) 
+    - Soprano 2/Alto 1: [listen and repeat](resources/audio/rise_up_in_protest/Rise_in_Protest_soprano_II_drill.mp3) ; [all the way through](resources/audio/rise_up_in_protest/Rise_in_Protest_soprano_II.mp3) 
+    - Alto 2: [listen and repeat](resources/audio/rise_up_in_protest/Rise_in_Protest_alto_drill.mp3) ; [all the way through](resources/audio/rise_up_in_protest/Rise_in_Protest_alto.mp3) 
+    - Tenor: [listen and repeat](resources/audio/rise_up_in_protest/Rise_in_Protest_tenor_drill.mp3) ; [all the way through](resources/audio/rise_up_in_protest/Rise_in_Protest_tenor.mp3) 
+    - Bass: [listen and repeat](resources/audio/rise_up_in_protest/Rise_in_Protest_bass_drill.mp3) ; [all the way through](resources/audio/rise_up_in_protest/Rise_in_Protest_bass.mp3) 
+- [Rozhinkes Mit Mandlen](resources/print/Rozhinkes_Mit_Mandlen.pdf) ; [Rozhinkes Mit Mandlen translation](resources/print/Rozhinkes_Mit_Mandlen_translation.pdf) 
+- Senzeni Na  
+  - [Sheet music](resources/print/Senzeni_Nah.pdf) 
+  - Audio files:  
+    - [Soprano](resources/audio/senzeni_na/Senzeni_Na_Soprano.mp3) 
+    - [Alto and Tenor](resources/audio/senzeni_na/Senzeni_Na_Tenor_Alto.mp3) 
+    - [Bass](resources/audio/senzeni_na/Senzeni_Na_Bass.mp3) 
+- S'falt a Shney  
+  - [Sheet music](resources/print/Sfalt_a_shney.pdf) 
+  - [Translation](resources/print/S%27falt%20a%20shney.doc) 
+  - Audio files  
+    - Soprano I: [Listen and repeat](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Soprano%20I%20Drill.mp3) ; [all the way through](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Soprano%20I.mp3) 
+    - Soprano II: [Listen and repeat](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Soprano%20II%20Drill.mp3) ; [all the way through](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Soprano%20II.mp3) 
+    - Alto: [Listen and repeat](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Alto%20Drill.mp3) ; [all the way through](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Tenor%20Drill.mp3) ; [all the way through](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Tenor.mp3) 
+    - Bass: [Intro for basses](resources/audio/sfalt_a_shney/Sfalt%20a%20shney%20intro%20for%20basses.mp3) ; [all the way through](resources/audio/sfalt_a_shney/Sfalt%20a%20shney%20-%20Bass.mp3) ; [Lyrics sheet](resources/print/S%27falt%20a%20Shney%20lyrics%20BASS%20-%20no%20music.rtf) 
+    - [Pronunciation](resources/audio/sfalt_a_shney/S%27Falt%20A%20Shney%20Pronunciation%20Drill.mp3)  
+- Shlof, Mayn Feygele  
+  - [Sheet music](resources/print/shlof_mayn_feygele.pdf) 
+  - Pronunciation: [Listen and repeat](resources/audio/shlof_mayn_feygele/Shlof%20Mayn%20Feygele%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/shlof_mayn_feygele/Shlof%20Mayn%20Feygele%20pronunciation.mp3) 
+  - Audio files:  
+    - [Entire song](resources/audio/shlof_mayn_feygele/Shlof,%20mayn%20feygele.mp3) 
+    - [Soprano](resources/audio/shlof_mayn_feygele/Shlof,%20mayn%20feygele-soprano.mp3) 
+    - [Alto](resources/audio/shlof_mayn_feygele/Shlof,%20mayn%20feygele-alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/shlof_mayn_feygele/Shlof%20Mayn%20Feygele%20tenor%20drill.mp3) ; [all the way through](resources/audio/shlof_mayn_feygele/Shlof%20Mayn%20Feygele%20tenor.mp3) 
+    - [Bass](resources/audio/shlof_mayn_feygele/Shlof,%20mayn%20feygele-bass.mp3) 
+- Shlof Mayn Kind  
+  - [Sheet music](resources/print/Shlof_Mayn_Kind.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20pronunciation.mp3) 
+    - Soprano: [Listen and repeat](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Soprano%20Listen%20and%20Repeat.mp3) ; [all the way through](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Soprano%20Runthrough.mp3) 
+    - Alto I: [Listen and repeat](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Alto1%20Listen%20and%20Repeat.mp3) ; [all the way through](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Alto1%20Runthrough.mp3) 
+    - Alto II: [Listen and repeat](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Alto2%20Listen%20and%20Repeat.mp3) ; [all the way through](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Alto2%20Runthrough.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20tenor%20drill.mp3) ; [all the way through](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20tenor.mp3) 
+    - Bass: [Listen and repeat](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Bass%20Listen%20and%20Repeat.mp3) ; [all the way through](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Bass%20Runthrough.mp3)  [](resources/audio/shlof_mayn_kind/Shlof%20Mayn%20Kind%20Bass%20Runthrough.mp3) 
+- Shnel Loyfn di Reder  
+  - [Sheet music](resources/print/shnel_loyfn_di_reder.pdf) 
+  - [Translation](resources/print/Shnel%20Loyfn%20Di%20Reder%20lyrics%20and%20translation.doc) 
+  - Audio files  
+    - Soprano: [Listen and repeat](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn%20soprano%20drill.mp3) ; [all the way through](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn%20soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn%20alto%20drill.mp3) ; [all the way through](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn%20alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn%20tenor%20drll.mp3) ; [all the way through](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn%20tenor.mp3) 
+    - Bass: [all the way through](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn_basses.mp3) ; 
+    - [Pronunciation](resources/audio/shnel_loyfn_di_reder/Shnel%20Loyfn%20Di%20Reder%20Pronunciation%20Drill.mp3)  
+    - Recording by the New Jewish Chorale: [listen in Flash Player](http://savethemusic.com/bin/archives.cgi?q=songs&search=title&id=Shnel+Loyfn+di+Reder) or [listen directly](http://67.19.162.130/stm/complete/204-13a.mp3) . 
+- Shnirele Perele (New sheet music Aug. 13 2013)  
+  - [Sheet music](resources/print/shnirele_perele.pdf) 
+  - [Translation](resources/print/Shnirele%20Perele%20translation.pdf) 
+  - Audio files  
+    - Soprano I: [Listen and repeat](resources/audio/shnirele_perele/Shnirele%20Perele%20Soprano%201%20drill.mp3) ; [all the way through](resources/audio/shnirele_perele/Shnirele%20Perele%20Soprano%201.mp3) ; [Second ending](resources/audio/shnirele_perele/shnirele%20second%20ending%20soprano%20I.mp3) . 
+    - Soprano II: [Listen and repeat](resources/audio/shnirele_perele/Shnirele%20Perele%20Soprano%202%20drill.mp3) ; [all the way through](resources/audio/shnirele_perele/Shnirele%20Perele%20Soprano%202.mp3) ; [Second ending](resources/audio/shnirele_perele/shnirele%20second%20ending%20soprano%20II.mp3) . 
+    - Alto: [Listen and repeat](resources/audio/shnirele_perele/Shnirele%20Perele%20Alto%20drill.mp3) ; [all the way through](resources/audio/shnirele_perele/Shnirele%20Perele%20Alto.mp3) 
+    - Tenor (updated 2013): [Listen and repeat](resources/audio/shnirele_perele/Shnirele%20Perele%20tenor%20drill%202013.mp3) ; [all the way through](resources/audio/shnirele_perele/Shnirele%20Perele%20tenor%202013.mp3) 
+    - Bass: [Listen and repeat](resources/audio/shnirele_perele/Shnirele%20Perele%20Bass%20drill.mp3) ; [all the way through](resources/audio/shnirele_perele/Shnirele%20Perele%20Bass.mp3) 
+    - [Pronunciation](resources/audio/shnirele_perele/Shnirele%20Perele%20pronunciation.mp3) 
+- [Sholem Lid](resources/print/Sholem_Lid.pdf) 
+- Shtiler Ovnt  
+  - [Sheet music](resources/print/Shtiler_ovnt.pdf) 
+  - [Translation](resources/print/Shtiler_ovnt_translation.pdf) 
+- Spirituals medley (Follow the Drinkin' Gourd, Amen, This Little Light of Mine)  
+  - [Sheet music](resources/print/spirituals_medley.pdf) 
+  - Audio files  
+    - [Entire song](resources/audio/spirituals_medley/Spiritual%20Medley%20for%20ABV.mp3) 
+    - [Upper voices](resources/audio/spirituals_medley/Spiritual%20Medley%20for%20ABV-uppervoices.mp3) 
+    - [Lower voices](resources/audio/spirituals_medley/Spiritual%20Medley%20for%20ABV-lowervoices.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/spirituals_medley/medley%20tenor%20drill%20new.mp3) ; [all the way through](resources/audio/spirituals_medley/medley%20tenor%20new.mp3) 
+- Some Nights (Amol iz di Nakht)  
+  - [Sheet music](resources/print/Some%20Nights%20%28Amol%29%20%28ABV%29.pdf) (New version posted 1/22/16) 
+  - [Lyrics](resources/print/Some_Nights.pdf) 
+  - Audio files:  
+    - Pronunciation: [Listen and repeat](resources/audio/some_nights/Some%20Nights%20Yiddish%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/some_nights/Some%20Nights%20Yiddish%20pronunciation.mp3) 
+    - [Soprano](resources/audio/some_nights/amol-soprano.m4a) 
+    - [Alto](resources/audio/some_nights/amol-alto.m4a) 
+    - [Tenor](resources/audio/some_nights/amol-tenor.m4a) 
+    - [Bass](resources/audio/some_nights/amol-bass.m4a) 
+  - [YouTube video of original](https://youtu.be/qQkBeOisNM0) 
+- The Internationale/Di Shvue/Which Side Are You On:  
+  - [Sheet music](resources/print/the_internationale_di_shvue.pdf) 
+  - [Additional lyrics for The Internationale](resources/print/internationale_in%20four_languages.doc) 
+  - [Recording](music-current.html#%20http://www.youtube.com/watch?v=1L8RaM7GyGI) with translation of Di Shvue. Linda Gritz: "Great images of older and newer labor and civil rights struggles, except that the flag noted in the song should be red (Di fon di royte iz hoykh un breyt means Our red flag is high and wide)." See the following: 
+  - [Translation of Di Shvue lyrics](resources/print/di_shvue_translation.pdf) 
+  - Audio files  
+    - Soprano:  
+      - [Listen and repeat](resources/audio/internationale/Internationale_soprano_drill.mp3) ; 
+      - [all the way through](resources/audio/internationale/Internationale_soprano.mp3) 
+      - [Second verse (multiple languages)](resources/audio/internationale/internationale_soprano_languages.MP3) 
+    - Alto:  
+      - [Listen and repeat](resources/audio/internationale/Internationale_alto_drill.mp3) ; 
+      - [Extra drill of tricky spots](resources/audio/internationale/Internationale_alto_extra_drill.mp3) ; 
+      - [all the way through](resources/audio/internationale/Internationale_alto.mp3) 
+      - [Second verse (multiple languages)](resources/audio/internationale/internationale_alto_languages.MP3) 
+    - Tenor:  
+      - [Listen and repeat](resources/audio/internationale/Internationale-Shvue_Which_Side_tenor_drill.mp3) ; 
+      - [all the way through](resources/audio/internationale/Internationale_Shvue_Which_Side_tenor.mp3) 
+      - [Second verse (multiple languages)](resources/audio/internationale/internationale_tenor_languages.MP3) 
+    - Bass: 
+    - [47 languages in 4 minutes!](http://www.youtube.com/watch?v=m7PrVtZAG4M&feature=related)  
+    - [Peter Seeger sings and talks about The Internationale](resources/audio/internationale/1-05%20L%27Internationale.mp3)   
+      - [Internationale verse sung by Bob F.](resources/audio/internationale/The%20Internationale-bass.mp3) 
+      - [Internationale complete](resources/audio/internationale/bass.wav) 
+      - [Second verse (multiple languages)](resources/audio/internationale/internationale_bass_languages.MP3) 
+      - [Transition from International to Which Side Are You On](resources/audio/internationale/internationale_bass_transition.MP3) 
+- This Little Light of Mine  
+  - [Sheet music](resources/print/This_Little_Light.pdf) 
+  - Audio files  
+    - [All parts](resources/audio/this_little_light/This_Little_Light_of_Mine.wav) 
+    - [Soprano](resources/audio/this_little_light/This_Little_Light_of_Mine_soprano.wav) 
+    - [Alto (Alto I and Alto II combined)](resources/audio/this_little_light/This_Little_Light_of_Mine_alto.wav) 
+    - [Tenor](resources/audio/this_little_light/This_Little_Light_of_Mine_tenor.wav) 
+    - [Bass](resources/audio/this_little_light/This_Little_Light_of_Mine_bass.mp3) 
+- Tsindt on a Likhtl  
+  - [Sheet music](resources/print/Tsindt%20on%20a%20Likhtl.pdf) 
+  - [Translation](resources/print/TSINDT%20ON%20A%20LIKHTL%20translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/Tsindt/Tsindt%20%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Tsindt/Tsindt%20%20pronunciation.mp3) 
+    - [Soprano sung an octave lower - Linda](resources/audio/Tsindt/Tsindt%20soprano%20verses%20sung%20with%20text%20and%20rhythm.mp3) 
+    - [Soprano older - Steve](resources/audio/Tsindt/Tsindt_soprano.m4a) 
+    - [Alto (revised 10/27/17)](resources/audio/Tsindt/Tsindt%20-%20alto%20-%20rev..m4a) 
+    - Tenor (high): [Listen and repeat](resources/audio/Tsindt/Tsindt%20female%20tenor%20drill.mp3) ; [all the way through](resources/audio/Tsindt/Tsindt%20female%20tenor.mp3) 
+    - Tenor (low): [Listen and repeat](resources/audio/Tsindt/Tsindt%20male%20tenor%20drill.mp3) ; [all the way through](resources/audio/Tsindt/Tsindt%20male%20tenor.mp3) 
+    - [Bass (revised 11/30/18)](resources/audio/Tsindt/Tsindt%20on%20a%20Likhtl%20bass.mp3)  [](resources/audio/Tsindt/Tsindt%20-%20bass%20-%20rev..m4a) 
+- [Tsu Dayn Geburtstog](resources/print/Tsu%20Dayn%20Geburtstog.jpg) 
+- Tumbalalayka  
+  - [Sheet music](resources/print/tumbalalaika_new.pdf) 
+  - Pronunciation: [Listen and repeat](resources/audio/tumbalalayka/Tumbalalayka%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/tumbalalayka/Tumbalalayka%20pronunciation.mp3)  
+  - Audio files:  
+    - [Entire song](resources/audio/tumbalalayka/Tum%20Balalayka.mp3) 
+    - [Soprano](resources/audio/tumbalalayka/Tum%20Balalayka-soprano.mp3) 
+    - [Alto](resources/audio/tumbalalayka/Tum%20Balalayka-alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/tumbalalayka/Tumbalalayka%20tenor%20drill.mp3) ; [all the way through](resources/audio/tumbalalayka/Tumbalalayka%20tenor.mp3) 
+    - [Bass](resources/audio/tumbalalayka/Tum%20Balalayka-bass.mp3) 
+  - [Singalong words and simple melody](resources/print/Tumbalalaika.pdf) 
+- Un Du Akerst  
+  - [Sheet music(revised to correct lyrics 12/8/21)](resources/print/Un%20Du%20Akerst%20Final.pdf)  
+  - [Word-for-wordtranslation (includes soloists' words)](resources/print/Un%20Du%20Akerst%20translation_word_for_word.pdf) 
+  - Audio files:  
+    - Pronunciation: [Listen and repeat](resources/audio/un_du_akerst/Un%20Du%20Akerst%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/un_du_akerst/Un%20Du%20Akerst%20pronunciation.mp3) 
+    - Recording session: focus on [soprano](resources/audio/un_du_akerst/Un%20Du%20Akerst%20CD%20T7%20mainly%20soprano.mp3) , [alto](resources/audio/un_du_akerst/Un%20Du%20Akerst%20CD%20T8%20mainly%20alto.mp3) , [tenor](resources/audio/un_du_akerst/Un%20Du%20Akerst%20CD%20T9%20mainly%20tenor.mp3) , [bass;](resources/audio/un_du_akerst/Un%20Du%20Akerst%20CD%20T10%20mainly%20bass.mp3)  [studio mix all voices (do not share)](resources/audio/un_du_akerst/150_voices%20-%20bo_02%20-%20Un%20du%20akerst%20-%20200526.mp3) 
+    - [Recorded version with click-track](resources/audio/un_du_akerst/Un%20Du%20Akerst%20w%20click%20track.mp3) 
+    - Soprano: [Listen and repeat](resources/audio/un_du_akerst/unduakerst_soprano_listenrepeat.mp3) ; [all the way through](resources/audio/un_du_akerst/unduakerst_soprano.mp3) 
+    - [Alto](resources/audio/un_du_akerst/un_du_akerst_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/un_du_akerst/Un%20Du%20Akerst%20tenor%20drill.mp3) ; [all the way through](resources/audio/un_du_akerst/Un%20Du%20Akerst%20tenor.mp3)  
+    - [Pronunciation](resources/audio/un_du_akerst_pre_2019/Un%20Du%20Akerst%20Pronunciation%20Drill.mp3)  
+    - [Bass I m. 1-30](resources/audio/un_du_akerst/UnDuAkerst%20m1-30%20B1.mp3) 
+    - [Bass II m. 1-30](resources/audio/un_du_akerst/UnDuAkerst%20m1-30%20B2.mp3) 
+- Un Du Akerst (pre-2019 version)  
+  - [Sheet music](resources/print/Un_Du_Akerst_pre_2019.pdf) 
+  - [Complete lyrics](resources/print/un%20du%20akerst.doc) 
+  - [Word-for-wordtranslation](resources/print/Un%20Du%20Akerst%20translation_word_for_word.doc)  
+  - Audio files:  
+    - Soprano: [Listen and repeat](resources/audio/un_du_akerst_pre_2019/Un%20Du%20Akerst%20Soprano%20Drill.mp3) ; [all the way through](resources/audio/un_du_akerst_pre_2019/Un%20Du%20Akerst%20Soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/un_du_akerst_pre_2019/Un%20Du%20Akerst%20Alto%20Drill.mp3) ; [Measures 13 and 25](resources/audio/un_du_akerst_pre_2019/Un%20Du%20Akerst%20Alto%20M13%20and%20M25%20Slowly.mp3) , [all the way through](resources/audio/un_du_akerst_pre_2019/Un%20Du%20Akerst%20Alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/un_du_akerst_pre_2019/Un_Du_Akerst_tenor_drill.mp3) ; [all the way through](resources/audio/un_du_akerst_pre_2019/Un_Du_Akerst_tenor.mp3) 
+    - Bass: [Bob's "roadmap"](resources/audio/un_du_akerst_pre_2019/Un%20du%20akerst%20-%20bass_roadmap.mp3) ; [all the way through](resources/audio/un_du_akerst_pre_2019/Un%20du%20akerst%20-%20bass%203%20verses.mp3) ; 
+    - [Pronunciation](resources/audio/un_du_akerst_pre_2019/Un%20Du%20Akerst%20Pronunciation%20Drill.mp3)  
+- Una Noche  
+  - [Sheet music](resources/print/UnaNoche.pdf) 
+  - [Translation](resources/print/Ladino%20Translations%20-%20Hermanas%20Reina%20y%20Cautiva,%20Una%20Noche%20al%20Bodre%20de%20la%20Mar.pdf)  
+  - [Comments on Ladino pronunciation](resources/audio/Pronunciation%20-%20General%20Notes%20-%20Vowels.mp3) 
+  - [Performance by Guy MendilowEnsemble](resources/audio/una_noche/Una%20Noche_GME.mp3) (large file) 
+  - Audio files:  
+    - Soprano I: [Listen and repeat](resources/audio/una_noche/una%20noche%20soprano%20I%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/una_noche/una%20noche%20soprano%20I%20all%20the%20way%20through.mp3) 
+    - Soprano II: [Listen and repeat](resources/audio/una_noche/una%20noche%20soprano%20II%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/una_noche/una%20noche%20soprano%20II%20all%20the%20way%20through.mp3) 
+    - Alto: [Listen and repeat](resources/audio/una_noche/una%20noche%20alto%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/una_noche/una%20noche%20alto%20all%20the%20way%20through.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/una_noche/una%20noche%20tenor%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/una_noche/una%20noche%20tenor%20all%20the%20way%20through.mp3) 
+    - Bass: [Listen and repeat](resources/audio/una_noche/una%20noche%20bass%20listen%20and%20repeat.mp3) ; [all the way through](resources/audio/una_noche/una%20noche%20bass%20all%20the%20way%20through.mp3) 
+    - [Pronunciation](resources/audio/una_noche/Pronunciation%20-%20Une%20Noche%20Bridge.mp3) 
+- Undzer Nigndl  
+  - [Sheet music](resources/print/Undzer_Nigndl.pdf) (updated November 8 2012 to fix typo intenor m. 41); 
+  - [Lyrics](resources/print/Undzer_Nigndl_lyrics.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/Undzer_Nigndl/Undzer%20Nigndl%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Undzer_Nigndl/Undzer%20Nigndl%20pronunciation.mp3) 
+    - Soprano: [Listen and repeat](resources/audio/Undzer_Nigndl/Nigndl_soprano_drill.mp3) ; [all the way through](resources/audio/Undzer_Nigndl/Nigndl_soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/Undzer_Nigndl/Nigndl_alto_drill.mp3) ; [all the way through](resources/audio/Undzer_Nigndl/Nigndl_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/Undzer_Nigndl/Nigndl_tenor_drill.mp3) ; [all the way through](resources/audio/Undzer_Nigndl/Nigndl_tenor.mp3) 
+- Unter Dayne Vayse Shtern  
+  - [Sheet music](resources/print/UnterDayneVayseShtern%204pages.pdf) (updated 3/3/15 into one file with second verse words) 
+  - [Translation](resources/print/UnterDayneVayseShternTranslation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/unter_dayne_vayse_shtern/Unter_dayne_vayse%20shtern_pronunciation_drill.mp3) ; [all the way through](resources/audio/unter_dayne_vayse_shtern/Unter_dayne_vayse_shtern_pronunciation.mp3) 
+    - Tenor: Updated 3/1/15 to add second verse [Listen and repeat](resources/audio/unter_dayne_vayse_shtern/Unter%20Dayne%20Vayse%20Shtern%20March%202015%20tenor%20drill.mp3) ; [all the way through](resources/audio/unter_dayne_vayse_shtern/Unter%20Dayne%20Vayse%20Shtern%20tenor%20March%202015.mp3) 
+    - Bass: [all the way through](resources/audio/unter_dayne_vayse_shtern/Unter%20Dayne%20Vayse%20Shtern_bass.mp3) 
+- Va, pensiero  
+  - [Sheet music (updated 4/22)](resources/print/Va%20Piensero%20F%20rescan%2015Apr.pdf) 
+  - [2019 concert recording](https://youtu.be/dbhRL7nJGCA) 
+  - [Lyrics andtranslation](resources/print/Va%20Pensiero%20in%20Yiddish%20Lyrics.pdf) 
+  - Audio files  
+    - Yiddish pronunciation: [Listen and repeat](resources/audio/Va%20Pensiero/Va%20Pensiero%20Yiddish%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Va%20Pensiero/Va%20Pensiero%20Yiddish%20pronunciation.mp3) 
+    - Soprano: [Soprano I](resources/audio/Va%20Pensiero/Va%20Pensiero%20Sop%201.m4a) ; [Soprano II](resources/audio/Va%20Pensiero/Sop%202%20Va%20Pensiero.m4a) ; [Soprano duet](resources/audio/Va%20Pensiero/vapensierosopranosplit.mp3) 
+    - [Alto I](resources/audio/Va%20Pensiero/Va%20Pensiero%20Alto%201.mp3) , [Alto II](resources/audio/Va%20Pensiero/Va%20Pensiero%20Alto%202.mp3) 
+    - Tenor I: [Listen and repeat](resources/audio/Va%20Pensiero/Va%20Pensiero%20Yiddish%20Tenor%201%20drill.mp3) ; [all the way through](resources/audio/Va%20Pensiero/Va%20Pensiero%20Yiddish%20Tenor%201.mp3) 
+    - Tenor II: [Listen and repeat](resources/audio/Va%20Pensiero/Va%20Pensiero%20Yiddish%20Tenor%202%20drill.mp3) ; [all the way through](resources/audio/Va%20Pensiero/Va%20Pensiero%20Yiddish%20Tenor%202.mp3) 
+    - [Bass:](resources/audio/Va%20Pensiero/Va%20Pensiero%20bass.mp3)  [Listen and repeat](resources/audio/Va%20Pensiero/Va%20Pensiero%20bass%20LISTEN%20REPEAT%20Apr2020.mp3) ; [all the way through](resources/audio/Va%20Pensiero/Va%20Pensiero%20bass%20Apr2020.mp3) 
+- Vakht Oyf  
+  - [Sheet music and translation](resources/print/Vakht_Oyf_plus_words_oct_2008.pdf) 
+  - Audio files  
+    - Soprano I: [Listen and repeat](resources/audio/vakht_oyf/Vakht%20Oyf%20Soprano%20I%20Drill.mp3) ; [all the way through](resources/audio/vakht_oyf/Vakht%20Oyf%20Soprano%20I.mp3)  
+    - Soprano II: [Listen and repeat](resources/audio/vakht_oyf/Vakht%20Oyf%20Soprano%20II%20Drill.mp3) ; [Listen and repeat](resources/audio/vakht_oyf/Vakht%20Oyf%20Soprano%20II%20Drill.mp3) 
+    - Alto I: [Listen and repeat](resources/audio/vakht_oyf/Vakht%20Oyf%20Alto%20I%20Drill.mp3) ; [all the way through](resources/audio/vakht_oyf/Vakht%20Oyf%20Alto%20I.mp3) 
+    - Alto II: [Listen and repeat](resources/audio/vakht_oyf/Vakht%20Oyf%20Alto%20II%20Drill.mp3) ; [all the way through](resources/audio/vakht_oyf/Vakht%20Oyf%20Alto%20II.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/vakht_oyf/Vakht%20Oyf%20Tenor%20Drill.mp3) ; [all the way through](resources/audio/vakht_oyf/Vakht%20Oyf%20Tenor.mp3) 
+    - Bass: [all the way through](resources/audio/vakht_oyf/Vakht_Oyf_bass.mp3) 
+    - [Pronunciation](resources/audio/vakht_oyf/Vakht%20Oyf%20Pronunciation%20Drill.mp3) 
+    - [Concert recording by ABV](resources/other/live_recordings/chestnut_park_2008/06%20Mayn%20Tsavoe_Vacht%20Oyf.mp3) (begins after Mayn Tsavoe at 1:45; this older arrangement omits third verse which we now perform) 
+- Vaserl  
+  - [Sheet music](resources/print/Vaserl.pdf) 
+  - [Lyrics and translation](resources/print/Vaserl%20lyrics%20and%20translation.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/vaserl/Vaserl%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/vaserl/Vaserl%20pronunciation.mp3) 
+    - [Soprano](resources/audio/vaserl/Vaserl%20-%20soprano.m4a) 
+    - [Alto](resources/audio/vaserl/Vaserl%20-%20alto.m4a) 
+    - [Tenor](resources/audio/vaserl/Vaserl%20-%20tenor.m4a) 
+    - [Bass](resources/audio/vaserl/Vaserl%20-%20bass.m4a) 
+- Vi a Nes  
+  - [Performance by Levyosn](https://www.youtube.com/watch?v=IlU0qViHytU) 
+  - [Sheet music](resources/print/Vi%20A%20Nes%20Choir_Feb%2012.pdf) 
+  - Audio files  
+    - [Alto](resources/audio/vi_a_nes/Vi%20a%20Nes%20alto%20part.m4a) 
+    - [Tenor](resources/audio/vi_a_nes/Vi%20A%20Nes%20tenor.mp3) 
+- Vi Lang  
+  - [Klezmatics recording](resources/audio/vi_lang/Vi%20Lang%201.3%20MIX%20REF.%20FADE.mp3) 
+  - [Sheet music (bottom of second page)](resources/print/der_yokh_vi_lang.PDF) 
+- Vilne  
+  - [Arrangement for 2024 performance with Judy Bressler](resources/print/Vilne%20-%20with%20Judy.pdf) 
+  - [Sheet music (chorus and verses), words, and translation](resources/print/Vilne.pdf) 
+  - [Yiddishlyrics](resources/print/Vilne%20lyrics.pdf) 
+  - Audio files:  
+    - [Pronunciation](resources/audio/vilne/Vilne%20pronunciation.mp3) 
+    - Soprano (verse): [Listen and repeat](resources/audio/vilne/Vilne,%20Verse%20-%20Soprano%20In%20Sections.m4a) ; [all the way through](resources/audio/vilne/Vilne,%20Verse%20-%20Soprano%20Part.m4a) 
+    - Soprano (refrain): [Listen and repeat](resources/audio/vilne/Vilna%20Soprano%20Listen%20and%20Repeat.mp3) ; [all the way through](resources/audio/vilne/Vilna%20Soprano.mp3) 
+    - Alto (verse): [Listen and repeat](resources/audio/vilne/Vilne,%20Verse%20-%20Alto%20Part%20Sections.m4a) ; [all the way through](resources/audio/vilne/Vilne,%20Verse%20-%20Alto%20Part.m4a) 
+    - Alto (refrain): [Listen and repeat](resources/audio/vilne/Vilna%20Alto%20Listen%20and%20Repeat.mp3) ; [all the way through](resources/audio/vilne/Vilna%20Alto.mp3) 
+    - Tenor (verse and refrain): [Listen and repeat](resources/audio/vilne/Vilne%20tenor%20verses%20and%20refrain%20drill.mp3) ; [all the way through](resources/audio/vilne/Vilne%20tenor%20verses%20and%20refrain.mp3) 
+    - Bass (verse): [Listen and repeat](resources/audio/vilne/Vilne%20Verse%20-%20Bass%20Part%20In%20Sections.m4a) ; [all the way through](resources/audio/vilne/Vilne,%20Verse%20-%20Bass%20Part.m4a) 
+    - Bass (refrain): [Listen and repeat](resources/audio/vilne/Vilna%20Bass%20Listen%20and%20Repeat.mp3) ; [all the way through](resources/audio/vilne/Vilna%20Bass%20Singthrough.mp3) 
+    - [Studio recording by A Besere Velt with Hankus Netsky and Rosalie Gerut](resources/audio/vilne/Vilne-studio-recording.mp3) 
+    - [Recording with click-track intro Yiddish New York performance](resources/audio/vilne/Vilne%20YNY%20audio%20mono%20CLICK%20IN.mp3) 
+- Volt Ikh Gehat Koyekh  
+  - [Sheet music](resources/print/Volt_Ikh_Gehat_Koyekh.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/Volt_Ikh_Gehat/Volt%20Ikh%20Gehat%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/Volt_Ikh_Gehat/Volt%20Ikh%20Gehat%20pronunciation.mp3) 
+    - [Soprano](resources/audio/Volt_Ikh_Gehat/Volt_Ikh_Gehat_soprano.mp3) 
+    - [Alto](resources/audio/Volt_Ikh_Gehat/Volt_Ikh_Gehat_alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/Volt_Ikh_Gehat/Volt_Ikh_Gehat_tenor_drill.mp3) ; [all the way through](resources/audio/Volt_Ikh_Gehat/Volt_Ikh_Gehat_tenor.mp3) 
+    - [Bass](resources/audio/Volt_Ikh_Gehat/Volt%20Ikh%20Gehat%20MONO-bass.mp3) 
+- Vortsl un Fligl  
+  - [Vortsl un Fligl](resources/print/Vortsl%20un%20Fligl%20-%20ABV%20LARGER%20FONT.pdf) 
+  - [Lyrics and translation](resources/print/Vortsl%20un%20Fligl%20%28Root%20and%20Wing%29%20lyrics%20and%20translation%20%281%29.pdf) 
+  - Audio files  
+    - Pronunciation: [Listen and repeat](resources/audio/vortsl_un_fligl/Vortsl%20Un%20Fligl%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/vortsl_un_fligl/Vortsl%20Un%20Fligl%20pronunciation%20nonstop.mp3) 
+    - [Alto](resources/audio/vortsl_un_fligl/Vortsl%20un%20Fligl%20faster.m4a) 
+    - [Tenor/bass audio](resources/audio/vortsl_un_fligl/Vortsl%20un%20Fligl%20Tenor%20Bass.mp3)  
+- [Wade in the Water](resources/print/WadeInTheWater.pdf) 
+- Yugnt Himen  
+  - [Sheet music and translation (updated 4/2022)](resources/print/Yugnt%20Himen%20typed%20score%20and%20lyrics.pdf) (Typos: Measure 48: rhythm of "nayer" in solo part should be half-note followed by quarter note.Measure 50: same for "frayer".) 
+  - Additional lyric sheets:  
+    - [Color-coded by section](resources/print/yugnthimenlyrics.pdf) 
+    - [Color-colded by section, one-page](resources/print/yugnthimenlyrics-onepage.pdf) 
+    - [Bass lyrics](resources/print/Bass%20words%20for%20Yugnt%20Himen.pdf) 
+  - Audio files:  
+    - [Pronunciation](resources/audio/yugnt_himen/Yugnt_Himen_pronunciation_drill.mp3) 
+    - [Performance at Yiddish New York, with intro click track](resources/audio/yugnt_himen/Yugnt%20Himen%20with%20click.wav)   
+      - Practice recordings for each section:  
+        - [Verse soloist](resources/audio/yugnt_himen/yugnthimenSOLOsectional.mp3) 
+        - [Soprano](resources/audio/yugnt_himen/yugnthimenSOPRANOsectional.mp3) 
+        - [Alto](resources/audio/yugnt_himen/Yugnt%20Himen%20alto%20part%20w%20full%20chorus.m4a)  
+        - [Tenor](resources/audio/yugnt_himen/Yugnt%20Himen%20YNY%20tenor%20SATB.mp3) 
+        - [Bass](resources/audio/yugnt_himen/Yugnt%20Himen%20BASS%20with%20click%20intro.m4a)  
+    - Soprano: [Listen and repeat](resources/audio/yugnt_himen/Yugnt%20Himen%20soprano%20drill.mp3) ; [all the way through](resources/audio/yugnt_himen/Yugnt%20Himen%20soprano.mp3) 
+    - Alto: [Listen and repeat](resources/audio/yugnt_himen/Yugnt%20Himen%20alto%20drill.mp3) ; [all the way through](resources/audio/yugnt_himen/Yugnt%20Himen%20alto.mp3) 
+    - Tenor: [Listen and repeat](resources/audio/yugnt_himen/Yugnt%20Himen%20tenor%20drill.mp3) ; [all the way through](resources/audio/yugnt_himen/Yugnt%20Himen%20tenor%20nonstop.mp3) 
+    - Bass: [Listen and repeat](resources/audio/yugnt_himen/Yugnt%20Himen%20bass%20drill.mp3) ; [all the way through](resources/audio/yugnt_himen/Yugnt%20Himen%20bass.mp3) 
+- [Zahit](resources/print/Zahit-1.pdf) 
+- Zaman As-salam  
+  - [Sheet music](resources/print/Zaman%20As-Salam.pdf) 
+  - [Recording, soprano and tenor / high voices](resources/audio/zaman/Zaman-S+T%20-%209_25_25,%204.35%20PM.m4a) 
+  - [Recording,bass and alto / low voices](resources/audio/zaman/Zaman-B+T%20-%209_25_25,%204.34%20PM.m4a) 
+  - [Bass](resources/audio/zaman/Zaman%20As-Salaam%20MONO.mp3) 
+- Zay Shtolts Oyf Dayn Arbet  
+  - [Sheet music](resources/print/Zay%20Shtolts.pdf) 
+  - [Bass Lyrics](resources/print/Basses/Zay%20Shtolts.pdf) 
+  - [Words and translation](resources/print/zai_shtotlz_words.pdf) 
+  - Audio files:  
+    - Pronunciation: [Listen and repeat](resources/audio/zai_shtolts/Zay%20Shtolts%20pronunciation%20drill.mp3) ; [all the way through](resources/audio/zai_shtolts/Zay%20Shtolts%20pronunciation.mp3) 
+    - [Soprano](resources/audio/zai_shtolts/Zay%20shtolts%20-%20soprano.m4a) 
+    - [Alto](resources/audio/zai_shtolts/Zay%20shtolts%20-%20alto.m4a) 
+    - Tenors: [Steve's recording](resources/audio/zai_shtolts/Zay%20shtolts%20-%20tenor.m4a) , with piano; Linda's recordings: [Listen and repeat](resources/audio/zai_shtolts/Zay%20Shtolts%20tenor%20drill.mp3) ; [all the way through](resources/audio/zai_shtolts/Zay%20Shtolts%20tenor.mp3)  
+    - [Bass](resources/audio/zai_shtolts/Zay%20shtolts%20-%20bass.m4a) 
+- Zog Nit Keyn Mol  
+  - [Sheet music](resources/print/Zog_Nit_Keyn_Mol.pdf) 
+  - [Words](resources/print/Zog_Nit_Keynmol_words.pdf) 
+  - [Bass words](resources/print/Zog_Nit_Keynmol_bass_words.pdf) 
+  - Audio files:  
+    - [Pronunciation](resources/audio/zog_nit_keynmol/Zog%20nit%20keynmol%20pronunciation%20drill.mp3)  
+    - Soprano: [Listen and repeat](resources/audio/zog_nit_keynmol/Zog%20nit%20keynmol%20soprano%20drill.mp3) ; [all the way through](resources/audio/zog_nit_keynmol/Zog%20nit%20keynmol%20soprano%20nonstop.mp3) 
+    - Alto and Tenor I: [Listen and repeat](resources/audio/zog_nit_keynmol/Zog%20nit%20keynmol%20alto%20and%20female%20tenor%20drill.mp3) ; [all the way through](resources/audio/zog_nit_keynmol/Zog%20nit%20keynmol%20alto%20and%20female%20tenor%20nonstop.mp3) 
+    - Bass and Tenor II: [Listen and repeat](resources/audio/zog_nit_keynmol/Zog%20nit%20keynmol%20bass%20and%20male%20tenor%20drill.mp3) ; [all the way through](resources/audio/zog_nit_keynmol/Zog%20nit%20keynmol%20bass%20and%20male%20tenor%20nonstop.mp3) 

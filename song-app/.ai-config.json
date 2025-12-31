@@ -1,0 +1,41 @@
+{
+  "aiInstructions": {
+    "codeStyle": {
+      "javascript": {
+        "version": "ES6+",
+        "preferModernSyntax": true,
+        "patterns": {
+          "functions": "arrow functions preferred",
+          "variables": "const/let only, no var",
+          "strings": "template literals over concatenation",
+          "arrays": "use map/filter/reduce over for loops",
+          "objects": "use shorthand and destructuring",
+          "async": "async/await over promise chains"
+        },
+        "jupyterNotebooks": {
+          "scopePattern": "IIFE (Named or Arrow)",
+          "avoidConflicts": true,
+          "namedFunctionsForDebugging": true
+        }
+      }
+    },
+    "projectContext": {
+      "type": "song management web app",
+      "frontend": "vanilla JavaScript",
+      "backend": "Python Flask",
+      "deployment": "Nginx",
+      "specialRequirements": [
+        "markdown processing",
+        "resource directory extraction",
+        "file upload handling"
+      ]
+    },
+    "priorityOrder": [
+      "correctness",
+      "modern syntax",
+      "readability",
+      "performance",
+      "conciseness"
+    ]
+  }
+}
