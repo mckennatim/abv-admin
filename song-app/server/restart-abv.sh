@@ -1,6 +1,7 @@
 #!/bin/bash
+#sed -i 's/\r$//' restart-abv.sh convert line endings
 # restart-abv.sh
-cd /home/tryit/public_html/abv/server
+cd /home/abv/public_html/abv-admin/song-app/server
 pkill -f "python app.py"
 sleep 2
 nohup python app.py &

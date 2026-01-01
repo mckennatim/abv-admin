@@ -35,3 +35,39 @@ Database: ../process/songs.db
 2025-11-10 13:04:17,350 - INFO -  * Restarting with stat
 2025-11-10 13:04:17,728 - WARNING -  * Debugger is active!
 2025-11-10 13:04:17,731 - INFO -  * Debugger PIN: 121-901-628
+Warning: Database ../process/songs.db not found!
+============================================================
+Starting ABV Song Management Server...
+Environment: Linux
+Server URL: http://0.0.0.0:5000
+Working Directory: /home/abv/public_html/abv-admin/song-app/server
+Database: ../process/songs.db
+============================================================
+ * Serving Flask app 'app'
+ * Debug mode: on
+2025-12-31 18:38:37,662 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.193.234:5000
+2025-12-31 18:38:37,662 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-31 18:38:37,663 - INFO -  * Restarting with stat
+2025-12-31 18:38:37,817 - WARNING -  * Debugger is active!
+2025-12-31 18:38:37,831 - INFO -  * Debugger PIN: 349-891-772
+Warning: Database ../process/songs.db not found!
+============================================================
+Starting ABV Song Management Server...
+Environment: Linux
+Server URL: http://0.0.0.0:5000
+Working Directory: /home/abv/public_html/abv-admin/song-app/server
+Database: ../process/songs.db
+============================================================
+ * Serving Flask app 'app'
+ * Debug mode: on
+2025-12-31 18:48:03,202 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.193.234:5000
+2025-12-31 18:48:03,202 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-31 18:48:03,203 - INFO -  * Restarting with stat
+2025-12-31 18:48:03,368 - WARNING -  * Debugger is active!
+2025-12-31 18:48:03,380 - INFO -  * Debugger PIN: 349-891-772
