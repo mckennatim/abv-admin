@@ -31,9 +31,9 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for development
 
 # Configuration
-directory = '../process/'
+directory = '../'
 DATABASE = directory + 'songs.db'
-UPLOAD_FOLDER = '../resources/'
+UPLOAD_FOLDER = '../uploads/'
 ALLOWED_EXTENSIONS = {'txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif', 'mp3', 'wav', 'm4a', 'aac', 'flac', 'ogg', 'html', 'css', 'js', 'docx'}
 
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -484,15 +484,16 @@ def sync_with_legacy():
     from importlib import reload
     reload(abv)
     
-    remote_dir = "/public_html/"
+    remote_dir = "../../../"
     filename = "music-complete.html"
     try:
         import abv
         from importlib import reload
         reload(abv)
         # directory = "../../process/"
+        logger.info("Starting sync process...")
         # Download legacy music-complete.html
-        remote_dir ="public_html/"
+        remote_dir ="../../../"
         filename="music-complete.html"
         logger.info("Downloading legacy HTML...")
         abv.download_file(directory, remote_dir, filename)
@@ -675,45 +676,26 @@ def upload_html_to_legacy_server():
 def get_server_config():
     """Get appropriate host/port configuration for the current environment"""
     
-    # Check if running on Windows
-    is_windows = os.name == 'nt'
-    
-    if is_windows:
-        # Windows localhost configuration - force port 8001 to avoid conflict with static server
-        host = '127.0.0.1'
-        
-        # Try to find an available port starting from 8001 (not 8000)
-        for port in range(8001, 8010):
-            try:
-                import socket
-                with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-                    s.bind((host, port))
-                    return host, port
-            except OSError:
-                continue
-        
-        # If no port found in range, use Flask default
-        return host, 5000
-    else:
-        # Linux server configuration (tryit.parleyvale.com)
-        # Bind to all interfaces for external access
-        return '0.0.0.0', 5000
+    # Always bind to localhost only - WSL2 forwards automatically
+    # Production is behind nginx reverse proxy
+    return '127.0.0.1', 5000
 
 if __name__ == '__main__':
     # Check if database exists
     if not os.path.exists(DATABASE):
         print(f"Warning: Database {DATABASE} not found!")
     
-    # Get environment-appropriate configuration
-    host, port = get_server_config()
+    # Use environment variable for debug mode
+    env = os.getenv('FLASK_ENV', 'production').lower()
+    debug = env in ['development', 'dev', 'wsl']
     
     print("=" * 60)
     print("Starting ABV Song Management Server...")
-    print(f"Environment: {'Windows' if os.name == 'nt' else 'Linux'}")
-    print(f"Server URL: http://{host}:{port}")
+    print(f"Environment: {env.upper()}")
+    print(f"Debug mode: {debug}")
+    print(f"Host: 127.0.0.1, Port: 5000")
     print(f"Working Directory: {os.getcwd()}")
     print(f"Database: {DATABASE}")
     print("=" * 60)
     
-    # Run with cross-platform configuration
-    app.run(debug=True, host=host, port=port)
+    app.run(debug=debug, host='127.0.0.1', port=5000)

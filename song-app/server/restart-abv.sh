@@ -5,4 +5,4 @@ cd /home/abv/public_html/abv-admin/song-app/server
 pkill -f "python app.py"
 sleep 2
 nohup python app.py &
-echo "ABV server restarted"
+echo "ABV server restarted in $FLASK_ENV mode"
