@@ -201,13 +201,16 @@ class SongManager {
         const currentPath = window.location.pathname;
         const basePath = currentPath.replace(/\/app\/?$/, ''); // Remove /app from end
         
-        // Check if we're on localhost development
-        if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
-            // Development: API on port 8001, static files on port 8000
-            this.API_BASE = 'http://127.0.0.1:8001';
+        // Check if we're on production
+        if (window.location.hostname === 'abvchorus.org') {
+            // Production: use same origin, nginx will proxy /api/ to Flask
+            this.API_BASE = window.location.origin; // https://abvchorus.org
+        } else if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+            // Development: direct connection to Flask
+            this.API_BASE = 'http://localhost:5000';
         } else {
-            // Production: API on same server as static files  
-            this.API_BASE = window.location.origin + basePath;
+            // Fallback
+            this.API_BASE = window.location.origin;
         }
         
         console.log('SongManager initialized');

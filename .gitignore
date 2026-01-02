@@ -12,6 +12,12 @@ dist/
 *.egg-info/
 *.egg
 
+# Flask/Python runtime files
+nohup.out
+*.db
+*.sqlite3
+.env
+
 # Conda
 *.conda
 *.lock

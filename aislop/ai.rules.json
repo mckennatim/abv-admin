@@ -9,3 +9,8 @@
   "max_file_size_mb": 10,
   "log_changes": true
 }
+// **AI Rules for this notebook:**
+// - Save outputs to: /home/abv/public_html/admin/aislop/ai.{basename}.ipynb
+// - Only write to: /home/abv/public_html/admin/aislop/
+// - Max file size: 10MB
+// - Reference ai.rules.json for full spec
