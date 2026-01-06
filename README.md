@@ -42,7 +42,7 @@ A new storage location may be structured as follows:
           - spring...    
     - performances
 ```
-The folders under assets/songs/ will be adopted from the current folder names in resources/audio/. As the music-complete.html gets new or modified entries, all of the entries for that song will be upgraded, and copied to assets/songs. The files that get coopied over to assets/ will be deleted from resources/. Either by attrition or a batch process, resources/ will be copied and deleted.
+The folders under assets/songs/ will be adopted from the current folder names in resources/audio/. As the music-complete.html gets new or modified entries, all of the entries for that song will be upgraded, and copied to assets/songs. The files that get copied over to assets/ will be deleted from resources/. Either by attrition or a batch process, resources/ will be copied and deleted.
 
 <b><i> Using the old site update process, you will see either links to assets/ or links to resources/. Any additions or changes you make will need to go wherever the existing links point.</i></b>
 
